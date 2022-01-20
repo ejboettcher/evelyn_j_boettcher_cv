@@ -1,4 +1,8 @@
-# Evelyn J. Boettcher
+# Evelyn J. Boettcher  
+
+![Evelyn J. Boettcher](evelyn_2022_blue_sm.png)
+
+
 **PHYSICIST / Founder**
 
 **EDUCATION**
