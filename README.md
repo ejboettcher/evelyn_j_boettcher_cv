@@ -205,3 +205,11 @@ International Conference on Low Temp. Phys., Vol. 46 Suppl. S5 p. 2605
 (1996)
 
 (publications as co-author and/or MSS publication upon request)
+
+**Hobbies**
+
+* Sewing: Some things I created [GemCitySewn](https://www.instructables.com/member/Gem+City+Sewn/)
+* Science Tutorials: [Science Saturdays](https://ejboettcher.github.io/ScienceSat_MommyStyle/)
+* Python: [Pandas Talk](https://www.youtube.com/watch?v=OJIa7UkRteI)
+* Hiking and crafting
+* 3-D Printing: Some other things I created [@eboettcher on Thingiverse](https://www.thingiverse.com/eboettcher/designs)
