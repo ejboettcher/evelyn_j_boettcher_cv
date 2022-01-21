@@ -3,9 +3,9 @@
 ![Evelyn J. Boettcher](evelyn_2022_blue_sm.png)
 
 
-**PHYSICIST / Founder**
+## PHYSICIST / Founder
 
-**EDUCATION**
+## EDUCATION
 
 * Master of Science: Physics 2000
   University of Maryland, College Park, MD
@@ -13,25 +13,27 @@
 * Bachelor of Science: Physics Highest Honors 1997
   University of Florida, Gainesville, FL
 
-**TECHNICAL SKILLS**
+## TECHNICAL SKILLS
 
-**Images & videos**: Processing and analysis with Python, JavaScript,
-Julia, MatLab, GIMP & ImageJ for computer vision, machine learning &
-human performance analysis.
+Wide range of hardware and software skills.  
 
-**Skills:** Algorithm analysis & development, Mobile app development &
+### Images & videos: Processing and analysis with Python, JavaScript,
+Julia, MatLab, GIMP & ImageJ for computer vision, magnetic navigation, 
+machine learning & human performance analysis.
+
+### Skills: Algorithm analysis & development, Mobile app development &
 3D printing, NV-IPM/ NVThermIP, Image Metrology: Camera calibration &
 measure extraction, Fiber optics, Fiber Bragg Grating Fabrication
 
-**Sensors:** Thermal (MWIR, LWIR and passive mmW), SWIR, Hyperspectral
+### Sensors: Magnetic, Thermal (MWIR, LWIR and passive mmW), SWIR, Hyperspectral
 Imagery (HSI), LiDAR, and Visible Imaging and Video (FMV)
 
-**Programming:** Python, JavaScript, bash, Matlab, Java, Julia, Android
-Studios, Dot & C
+### Programming: Python, JavaScript, Bash, C, Matlab, Julia, Android
+Studios, Dot 
 
-Simulators: Experience with GT-LiDAR simulator, ROS/Gazebo and Blender
+### Simulators: Experience with GT-LiDAR simulator, ROS/Gazebo and Blender
 
-**PROFESSIONAL EXPERIENCE**
+## PROFESSIONAL EXPERIENCE
 
 **DiDacTex, LLC:** Dayton, OH May 2014 – Present
 
@@ -52,6 +54,9 @@ DiDacTex and performs direct support to AFRL and AFIT customers.
 -   Direct Works: Evelyn Boettcher also works directly with customers in
     contracts
 
+    -   [Magnetic Navigation](https://www.445aw.afrc.af.mil/News/Article-Display/Article/2738695/c-17-good-platform-for-magnav-development/): Designed, built and tested a magnetic navigation
+        sensor system.  Involved designedin PCB boards, programing micro processors and
+        created a visualization system to detect magnetic fields.
     -   Analyzed large data to find correlations between Elint and
         tracks.
     -   Processed SWAMI’s Blue Heron LWIR HSI data to feed into DARPA’s
@@ -177,7 +182,7 @@ employees
 
 \* Produced and shipped first Fiber Gratings to customers
 
-**PUBLIC RELEASE PUBLICATIONS AS HEAD AUTHOR**
+## PUBLIC RELEASE PUBLICATIONS AS HEAD AUTHOR
 
 Modeling Passive Millimeter Wave Imaging Sensor Performance for
 Discriminating Small Watercraft, Evelyn J. Boettcher, CDR Keith Krapels,
@@ -210,7 +215,7 @@ International Conference on Low Temp. Phys., Vol. 46 Suppl. S5 p. 2605
 
 (publications as co-author and/or MSS publication upon request)
 
-**Hobbies**
+## HOBBIES
 
 * Sewing: Some things I created [GemCitySewn](https://www.instructables.com/member/Gem+City+Sewn/)
 * Science Tutorials: [Science Saturdays](https://ejboettcher.github.io/ScienceSat_MommyStyle/)
