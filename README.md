@@ -17,21 +17,21 @@
 
 Wide range of hardware and software skills.  
 
-### Images & videos: Processing and analysis with Python, JavaScript,
+**Images & videos:** Processing and analysis with Python, JavaScript,
 Julia, MatLab, GIMP & ImageJ for computer vision, magnetic navigation, 
 machine learning & human performance analysis.
 
-### Skills: Algorithm analysis & development, Mobile app development &
+**Skills:** Algorithm analysis & development, Mobile app development &
 3D printing, NV-IPM/ NVThermIP, Image Metrology: Camera calibration &
 measure extraction, Fiber optics, Fiber Bragg Grating Fabrication
 
-### Sensors: Magnetic, Thermal (MWIR, LWIR and passive mmW), SWIR, Hyperspectral
+**Sensors:** Magnetic, Thermal (MWIR, LWIR and passive mmW), SWIR, Hyperspectral
 Imagery (HSI), LiDAR, and Visible Imaging and Video (FMV)
 
-### Programming: Python, JavaScript, Bash, C, Matlab, Julia, Android
+**Programming:** Python, JavaScript, Bash, C, Matlab, Julia, Android
 Studios, Dot 
 
-### Simulators: Experience with GT-LiDAR simulator, ROS/Gazebo and Blender
+**Simulators:** Experience with GT-LiDAR simulator, ROS/Gazebo and Blender
 
 ## PROFESSIONAL EXPERIENCE
 
