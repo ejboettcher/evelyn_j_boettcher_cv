@@ -35,7 +35,7 @@ Her experience spans over 17 years in the field of electro-optics and remote sen
 </section>
 <section id="portfolio-work" style="background-color: #c4d7d7; padding-bottom:20px; padding-top:20px width:100%">
 <div class="content-new-streams">
- <img src="{{ site.baseurl }}./assets/img/index/evelyn_pandas_talk.jpeg" alt="Evelyn talk">
+ <img src="{{ site.baseurl }}/assets/img/index/evelyn_pandas_talk.jpeg" alt="Evelyn talk">
    <h2>Evelyn J. Boettcher</h2>
    </div>
 </section>
