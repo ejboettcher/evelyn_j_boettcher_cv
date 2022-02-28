@@ -24,6 +24,32 @@ plugins:
 
 # Gem settings
 
+
+# Site Author
+author:
+  name             : "Evelyn J Boettcher"
+  avatar           : "/assets/img/index/evelyn_boettcher_2022_3_4" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "Physicist and Founder"
+  location         : "Dayton"
+  email            :
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.didactex.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ejboettcher"
+    - label: "Instructable"
+      icon: "fab fa-fw fa-robot"
+      url: "https://instagram.com/"
+
+
 # Site settings
 encoding: utf-8
 locale                   : "en-US"
