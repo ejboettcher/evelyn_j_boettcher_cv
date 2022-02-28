@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact us"
-banner: "../assets/img/banner/slider-bg-pale.jpg"
+banner: "../assets/img/banner/green_painting.jpg"
 redirect_from:
   - /contact/
 ---

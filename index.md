@@ -13,36 +13,16 @@ banner: "../assets/img/banner/green_painting.jpg"
 
 <div class="content-new-info">
 <br>
-    <img src="{{ site.baseurl }}/assets/img/index/evely_2022_2.png" alt="Evelyn logo"></a>
-    <div class="count">
-<ul class="count-list">
-	<li>
-		<div>
-            <i class="fas fa-edit"></i>
-			<span>Tutorials</span>
-		</div>
-    </li>
-    <li>
-		<div>
-            <i class="fas fa-book-open"></i>
-			<span>Publications</span>
-		</div>
-    </li>
-    <li>
-		<div>
-            <i class="fas fa-lightbulb-on"></i>
-			<span>Creations</span>
-		</div>
-	</li>
-  </ul>
-</div>
-<big>Mrs. Evelyn J. Boettcher founded and leads DiDacTex, LLC (a small woman owned business <a href="https://www.didactex.com/">). 
+    <img src="{{ site.baseurl }}/assets/img/index/evely_2022_2.png" alt="Evelyn logo">
+   
+<big>Mrs. Evelyn J. Boettcher founded and leads DiDacTex, LLC (a small woman owned business.
+<a href="https://www.didactex.com/">) 
 Her experience spans over 17 years in the field of electro-optics and remote sensing, with working experience with electronics,
  modeling and algorithm development. She received an MS in Physics from the University of Maryland and a BS in Physics 
  from the University of Florida. She has been head author in respected peer review journals, present findings at 
  international and national meetings and received patents for electro-optical devices (# 6,738,536 #; 6,944,372).
   Lastly, she enjoys supporting STEM activities for youth in her personal time. 
- <a href="https://www.linkedin.com/in/evelynboettcher/"></big>
+ <a href="https://www.linkedin.com/in/evelynboettcher/"> </big>
 </div>
 <section id="index-work" style="padding-bottom:20px">
 <div style="width:100%">
@@ -55,10 +35,8 @@ Her experience spans over 17 years in the field of electro-optics and remote sen
 
 <section id="portfolio-work" style="background-color: #c4d7d7; padding-bottom:20px; padding-top:20px width:100%">
 <div class="content-new-streams">
- 
-  <img src="{{ site.baseurl }}/assets/img/index/evely_pandas_talk.png" alt="Evelyn talk"></a>
-   
-   <h2>Evelyn J. Boettcher/h2>
+ <img src="{{ site.baseurl }}/assets/img/index/evely_pandas_talk.png" alt="Evelyn talk">
+   <h2>Evelyn J. Boettcher</h2>
    </div>
 </section>
 
