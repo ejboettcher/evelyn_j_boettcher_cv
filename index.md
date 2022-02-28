@@ -19,22 +19,19 @@ banner: "../assets/img/banner/green_painting.jpg"
 	<li>
 		<div>
             <i class="fas fa-edit"></i>
-			<span class="counter">11</span>
-			<span class="counter-desc">Tutorials</span>
+			<span>Tutorials</span>
 		</div>
     </li>
     <li>
 		<div>
             <i class="fas fa-book-open"></i>
-			<span class="counter">15</span>
-			<span class="counter-desc">Publications</span>
+			<span>Publications</span>
 		</div>
     </li>
     <li>
 		<div>
             <i class="fas fa-lightbulb-on"></i>
-			<span class="counter">1</span>
-			<span class="counter-desc">Creations</span>
+			<span>Creations</span>
 		</div>
 	</li>
   </ul>
