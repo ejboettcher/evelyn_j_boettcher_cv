@@ -1,5 +1,6 @@
 ---
 layout: home
+author_profile: false
 title: "Evelyn J Boettcher: CV"
 banner: "/assets/img/banner/green_painting.png"
 ---
@@ -12,15 +13,19 @@ banner: "/assets/img/banner/green_painting.png"
 <meta property="og:description" content="Evelyn J. Boettcher resume" />
 <meta property="og:image" content="https://ejboettcher.github.io/evelyn_j_boettcher_cv/assets/img/logos/dayton_gearfilled_bike.png" />
 
-<div class="content-new-info">
+
 <br>
-    <img src="{{ site.baseurl }}/assets/img/index/evelyn_2022_2_sm.png" alt="Evelyn logo"><big>Mrs. Evelyn J. Boettcher founded and leads DiDacTex, LLC (a small woman owned business.
-<a href="https://www.didactex.com/">DiDacTex</a>) 
+<div class="content-new-info">
+<div>
+    <img src="{{ site.baseurl }}/assets/img/index/evelyn_2022_2_sm.png" alt="Evelyn logo">
+</div>
+    <big>Mrs. Evelyn J. Boettcher founded and leads DiDacTex, LLC (a small woman owned business.
+<a href="https://www.didactex.com/">DiDacTex</a>)
 Her experience spans over 17 years in the field of electro-optics and remote sensing, with working experience with electronics,
- modeling and algorithm development. She received an MS in Physics from the University of Maryland and a BS in Physics 
- from the University of Florida. She has been head author in respected peer review journals, present findings at 
+ modeling and algorithm development. She received an MS in Physics from the University of Maryland and a BS in Physics
+ from the University of Florida. She has been head author in respected peer review journals, present findings at
  international and national meetings and received patents for electro-optical devices (# 6,738,536 #; 6,944,372).
-  Lastly, she enjoys supporting STEM activities for youth in her personal time. 
+  Lastly, she enjoys supporting STEM activities for youth in her personal time.
  <a href="https://www.linkedin.com/in/evelynboettcher/">LinkedIn</a> </big>
 </div>
 
@@ -55,7 +60,7 @@ Her experience spans over 17 years in the field of electro-optics and remote sen
 Wide range of hardware and software skills.  
 
 **Images & videos:** Processing and analysis with Python, JavaScript,
-Julia, MatLab, GIMP & ImageJ for computer vision, magnetic navigation, 
+Julia, MatLab, GIMP & ImageJ for computer vision, magnetic navigation,
 machine learning & human performance analysis.
 
 **Skills:** Algorithm analysis & development, Mobile app development &
@@ -66,7 +71,7 @@ measure extraction, Fiber optics, Fiber Bragg Grating Fabrication
 Imagery (HSI), LiDAR, and Visible Imaging and Video (FMV)
 
 **Programming:** Python, JavaScript, Bash, C, Matlab, Julia, Android
-Studios, Dot 
+Studios, Dot
 
 **Simulators:** Experience with GT-LiDAR simulator, ROS/Gazebo and Blender
 
@@ -155,7 +160,7 @@ experiments to further development.
 -   Analyzed and characterized spectral signatures
 -   Measured performance of HSI detection algorithms
 
-**DCS Corporation:** Alexandria, VA 
+**DCS Corporation:** Alexandria, VA
 
 Electrical Engineer III OCT. 2006- April 2010
 
@@ -259,7 +264,3 @@ International Conference on Low Temp. Phys., Vol. 46 Suppl. S5 p. 2605
 * Python: [Pandas Talk](https://www.youtube.com/watch?v=OJIa7UkRteI)
 * Hiking and crafting
 * 3-D Printing: Some other things I created [@eboettcher on Thingiverse](https://www.thingiverse.com/eboettcher/designs)
-
-
-
-

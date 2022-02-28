@@ -3,3 +3,29 @@
    ========================================================================== */
 
 // Intentionally left blank
+
+body {
+  color: #0a0100;
+}
+
+a {
+  color: #8BB469;
+}
+
+.page-header {
+  color: #002644;
+  text-align: center;
+  background-color: #6194bb;;
+
+.main-content {
+  h1 {color: #002644},
+  h2 {color: #15727E},
+  h3 {color: #6194bb;},
+  h4 {color: #8BB469},
+  h5,
+  h6 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: normal;
+    color: $section-headings-color;
+  }
