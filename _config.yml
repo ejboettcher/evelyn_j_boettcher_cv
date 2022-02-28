@@ -14,6 +14,12 @@ plugins:
   - jekyll-include-cache
   #  - jekyll-target-blank
   #  - jekyll-redirect-from
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 
 # Gem settings
 
@@ -21,9 +27,9 @@ plugins:
 encoding: utf-8
 lang: en-US
 title: "Evelyn J. Boettcher"
-logo: "/assets/img/logos/dayton_gearfilled_bike.svg"
-description: ""
-baseurl: ""
+logo: "./assets/img/logos/dayton_gearfilled_bike.svg"
+description: "Evelyn J. Boettcher CV"
+baseurl: "https://ejboettcher.github.io/evelyn_j_boettcher_cv"
 url: "https://ejboettcher.github.io/evelyn_j_boettcher_cv"
 repo: "https://github.com/ejboettcher/evelyn_j_boettcher_cv"
 email: "evelyn.boettcher@gmail.com"
