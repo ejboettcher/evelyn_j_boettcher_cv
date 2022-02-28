@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Evelyn J Boettcher: CV"
 banner: "/assets/img/banner/green_painting.png"
 ---
