@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Evelyn J Boettcher: CV"
-banner: "../assets/img/banner/green_painting.png"
+banner: "./assets/img/banner/green_painting.png"
 ---
 
 <meta name="twitter:card" content="summary" />
@@ -14,7 +14,7 @@ banner: "../assets/img/banner/green_painting.png"
 
 <div class="content-new-info">
 <br>
-    <img src="{{ site.baseurl }}/assets/img/index/evelyn_2022_2_sm.png" alt="Evelyn logo"><big>Mrs. Evelyn J. Boettcher founded and leads DiDacTex, LLC (a small woman owned business.
+    <img src="{{ site.baseurl }}./assets/img/index/evelyn_2022_2_sm.png" alt="Evelyn logo"><big>Mrs. Evelyn J. Boettcher founded and leads DiDacTex, LLC (a small woman owned business.
 <a href="https://www.didactex.com/">DiDacTex</a>) 
 Her experience spans over 17 years in the field of electro-optics and remote sensing, with working experience with electronics,
  modeling and algorithm development. She received an MS in Physics from the University of Maryland and a BS in Physics 
@@ -35,7 +35,7 @@ Her experience spans over 17 years in the field of electro-optics and remote sen
 </section>
 <section id="portfolio-work" style="background-color: #c4d7d7; padding-bottom:20px; padding-top:20px width:100%">
 <div class="content-new-streams">
- <img src="{{ site.baseurl }}/assets/img/index/evelyn_pandas_talk.jpeg" alt="Evelyn talk">
+ <img src="{{ site.baseurl }}./assets/img/index/evelyn_pandas_talk.jpeg" alt="Evelyn talk">
    <h2>Evelyn J. Boettcher</h2>
    </div>
 </section>
