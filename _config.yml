@@ -73,7 +73,38 @@ navigation_header:
 analytics:
   provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          :
+    tracking_id  
+    
+    
+
+# Collections
+collections:
+  tutorials:
+    output: true
+    permalink: /:collection/:path/
+
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+      related: true
+  # _tutorials
+  - scope:
+      path: ""
+      type: tutorials
+    values:
+      layout: single
+      author_profile: false
+      share: true
+    
 # Site Footer
 footer:
   links:

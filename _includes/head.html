@@ -1,26 +1,25 @@
 <meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-<meta name="description" content="">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- CSS -->
-<link rel="stylesheet" href="{{ site.baseurl }}/css/main.css"/>
-<link rel="stylesheet" href="{{ site.baseurl }}/css/owlcarousel/owl.carousel.css">
-<link rel="stylesheet" href="{{ site.baseurl }}/css/ionicons.min.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/font-awesome.min.css" />
-<link rel="stylesheet" href="{{ site.baseurl }}/css/animate.css" />
+{% include seo.html %}
 
+{% unless site.atom_feed.hide %}
+  <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+{% endunless %}
 
-<!-- JS -->
-<script src="https://cmp.osano.com/AzZcuaRmzMJGz3kp/703b84dc-621a-4aa5-b3e7-f1d59debe971/osano.js"></script>
-<script src="https://code.jquery.com/jquery-1.12.4.js"></script>
-<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
-<script src="{{ site.baseurl }}/scripts/accordion.js"></script>
-<script src="{{ site.baseurl }}/scripts/owl.carousel.min.js"></script>
-<script src="{{ site.baseurl }}/scripts/jquery.counterup.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.5/waypoints.min.js"></script>
-<script src="{{ site.baseurl }}/scripts/ticker.js"></script>
-<script src="{{ site.baseurl }}/scripts/bootstrap.min.js"></script>
-<script src="{{ site.baseurl }}/scripts/owl.carousel.js"></script>
-<script src="{{ site.baseurl }}/scripts/owl.carousel.init.js"></script>
+<!-- https://t.co/dKP3o1e -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<script>
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+</script>
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+<link rel="preload" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css"></noscript>
+
+{% if site.head_scripts %}
+  {% for script in site.head_scripts %}
+    <script src="{{ script | relative_url }}"></script>
+  {% endfor %}
+{% endif %}
