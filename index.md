@@ -1,8 +1,9 @@
-  ---
+---
 layout: page
 title: "Evelyn J Boettcher: CV"
 banner: "../assets/img/banner/green_painting.jpg"
 ---
+
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@didactex" />
 <meta name="twitter:creator" content="@didactex" />
@@ -32,7 +33,7 @@ Her experience spans over 17 years in the field of electro-optics and remote sen
         <button onclick="location.href='/invent';" class="button-right" style=" width:32%">See her inventions/creations</button>
   </div>
 </div>
-
+</section>
 <section id="portfolio-work" style="background-color: #c4d7d7; padding-bottom:20px; padding-top:20px width:100%">
 <div class="content-new-streams">
  <img src="{{ site.baseurl }}/assets/img/index/evely_pandas_talk.png" alt="Evelyn talk">
