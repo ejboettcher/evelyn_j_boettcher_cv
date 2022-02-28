@@ -54,9 +54,6 @@ navigation_header:
   url: /contact.html
 
 # Define collections
-collections:
-    tutorials:
-        output: true
-        permalink: /tutorials/:path/
+
 
 
