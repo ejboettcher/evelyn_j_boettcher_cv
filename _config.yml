@@ -1,1 +1,63 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+# Exclude files from Jekyll build
+exclude:
+    - README.md
+    - LICENSE
+    - CNAME
+    - Gemfile
+    - Gemfile.lock
+    - vendor
+
+# Installed gems
+plugins: 
+    - jekyll-target-blank
+    - jekyll-redirect-from
+
+# Gem settings
+
+# Site settings
+encoding: utf-8
+lang: en-GB
+title: "Evelyn J. Boettcher"
+logo: "/assets/img/logos/logo_hex.svg"
+description: ""
+baseurl: ""
+url: "https://ejboettcher.github.io/evelyn_j_boettcher_cv"
+repo: "https://github.com/ejboettcher/evelyn_j_boettcher_cv"
+email: "evelyn.boettcher@gmail.com"
+#google_analytics: UA-92956541-1
+css_inline: false 
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+  input: GFM
+  auto_ids: true 
+
+# Favicons 
+favicons: 
+    16: '/assets/img/logos/logo_hex@16px.png'
+    32: '/assets/img/logos/logo_hex@32px.png'
+    64: '/assets/img/logos/logo_hex@64px.png'
+    128: '/assets/img/logos/logo_hex@128px.png'
+    256: '/assets/img/logos/logo_hex@256px.png'
+    512: '/assets/img/logos/logo_hex@512px.png'
+    1024: '/assets/img/logos/logo_hex@1024px.png'
+
+# Site navigation
+navigation_header:
+- title: Home
+  url: /
+- title: Tutorials
+  url: /tutorials.html
+- title: Contact
+  url: /contact.html
+
+# Define collections
+collections:
+    tutorials:
+        output: true
+        permalink: /tutorials/:path/
+    posts:
+        output: true
+        permalink: /posts/:path/
