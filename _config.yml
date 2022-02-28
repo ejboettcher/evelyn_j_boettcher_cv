@@ -17,9 +17,9 @@ plugins:
 
 # Site settings
 encoding: utf-8
-lang: en-GB
+lang: en-US
 title: "Evelyn J. Boettcher"
-logo: "/assets/img/logos/logo_hex.svg"
+logo: "/assets/img/logos/dayton_gearfilled_bike.svg"
 description: ""
 baseurl: ""
 url: "https://ejboettcher.github.io/evelyn_j_boettcher_cv"
@@ -36,13 +36,13 @@ kramdown:
 
 # Favicons 
 favicons: 
-    16: '/assets/img/logos/logo_hex@16px.png'
-    32: '/assets/img/logos/logo_hex@32px.png'
-    64: '/assets/img/logos/logo_hex@64px.png'
-    128: '/assets/img/logos/logo_hex@128px.png'
-    256: '/assets/img/logos/logo_hex@256px.png'
-    512: '/assets/img/logos/logo_hex@512px.png'
-    1024: '/assets/img/logos/logo_hex@1024px.png'
+    16: '/assets/img/logos/dayton_gearfilled@16px.png'
+    32: '/assets/img/logos/dayton_gearfilled@32px.png'
+    64: '/assets/img/logos/dayton_gearfilled@64px.png'
+    128: '/assets/img/logos/dayton_gearfilled@128px.png'
+    256: '/assets/img/logos/dayton_gearfilled@256px.png'
+    512: '/assets/img/logos/dayton_gearfilled@512px.png'
+    1024: '/assets/img/logos/dayton_gearfilled@1024px.png'
 
 # Site navigation
 navigation_header:
@@ -58,6 +58,5 @@ collections:
     tutorials:
         output: true
         permalink: /tutorials/:path/
-    posts:
-        output: true
-        permalink: /posts/:path/
+
+
