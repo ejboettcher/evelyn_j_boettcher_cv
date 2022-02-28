@@ -1,5 +1,6 @@
 # theme: jekyll-theme-cayman
 # Exclude files from Jekyll build
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 exclude:
     - README.md
     - LICENSE
@@ -9,9 +10,10 @@ exclude:
     - vendor
 
 # Installed gems
-plugins: 
-    - jekyll-target-blank
-    - jekyll-redirect-from
+plugins:
+  - jekyll-include-cache
+  #  - jekyll-target-blank
+  #  - jekyll-redirect-from
 
 # Gem settings
 
