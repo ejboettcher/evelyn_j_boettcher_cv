@@ -58,6 +58,10 @@ baseurl: "/evelyn_j_boettcher_cv"
 url: "https://ejboettcher.github.io"
 repo: "ejboettcher/evelyn_j_boettcher_cv"
 email: "evelyn.boettcher@gmail.com"
+header:
+  overlay_image: "/assets/img/banner/green_painting.png"
+  caption: "Evelyn J. Boettcher"
+  image_description: "Green painting bannar Image"
 #google_analytics: UA-92956541-1
 css_inline: false 
 markdown: kramdown
