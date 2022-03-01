@@ -36,11 +36,11 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.didactex.com"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fas fa-fw fa-github"
       url: "https://github.com/ejboettcher"
-    - label: "Instructable"
-      icon: "fab fa-fw fa-robot"
-      url: "https://instagram.com/"
+    - label: "Instructables"
+      icon: "fa-regular fa-user-robot"
+      url: "https://www.instructables.com/member/Gem+City+Sewn/"
 
 
 # Site settings

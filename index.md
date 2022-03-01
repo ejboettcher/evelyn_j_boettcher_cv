@@ -16,6 +16,7 @@ banner: "/assets/img/banner/green_painting.png"
 
 <br>
 <div class="content-new-info">
+<div class="square">
 <div>
     <img src="{{ site.baseurl }}/assets/img/index/evelyn_2022_2_sm.png" alt="Evelyn logo">
 </div>
@@ -28,7 +29,7 @@ Her experience spans over 17 years in the field of electro-optics and remote sen
   Lastly, she enjoys supporting STEM activities for youth in her personal time.
  <a href="https://www.linkedin.com/in/evelynboettcher/">LinkedIn</a> </big>
 </div>
-
+</div>
 <section id="index-work" style="padding-bottom:20px">
 <div style="width:100%">
   <div class="btn-group" style="width:100%">
