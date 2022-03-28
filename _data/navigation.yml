@@ -4,13 +4,13 @@ main:
   - title: "CV"
     url: https://ejboettcher.github.io/evelyn_j_boettcher_cv/
   - title: "Tutorials"
-    url: /_tutorials/
+    url: /tutorials/
   - title: "Publications"
-    url: /_publications/
+    url: /publications/
   - title: "Inventions"
     url: /sitemap/
   - title: "Posts"
-    url: /_posts/
+    url: /posts/
 
 
 # sidebar navigation list sample

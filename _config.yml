@@ -120,7 +120,7 @@ defaults:
       read_time: true
       share: true
       related: true
-  # tutorials
+  # _tutorials
   - scope:
       path: ""
       type: posts

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: "Tutorials"
 author_profile: false
 banner: "../assets/img/banner/green_painting.png"
@@ -28,7 +28,7 @@ redirect_from:
 </div>
 
 <div id="accordion">
-	<h4>Physics Tutorialss</h4>
+	<h4>Physics Tutorials</h4>
 	<div class="tutpanel">
     	<div class="tutcont">
         	<a href="{{ site.baseurl }}/tutorials/AluminumBoats">
