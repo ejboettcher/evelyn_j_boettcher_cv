@@ -1,5 +1,14 @@
-# Aluminum Foil Boats
+---
+layout: tutorial
+title: Aluminum Foil Boats
+subtitle: How metal boat floats
+date: 2018-03-21 
+author: Boettcher
+tags: physics, density, science 
+---
 
+
+# Aluminum Foil Boats
 
 
 ## Goal
