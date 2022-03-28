@@ -36,10 +36,10 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://www.didactex.com"
     - label: "GitHub"
-      icon: "fas fa-fw fa-github"
+      icon: "fas fa-code-branch"
       url: "https://github.com/ejboettcher"
     - label: "Instructables"
-      icon: "fa-regular fa-user-robot"
+      icon: "fas fa-file"
       url: "https://www.instructables.com/member/Gem+City+Sewn/"
 
 
@@ -54,14 +54,16 @@ tesser: "/assets/img/logos/dayton_gearfilled@128px.png"
 logo                     : "/assets/img/logos/dayton_gearfilled@128px.png"
 description: "Evelyn J. Boettcher CV"
 # baseurl: "https://ejboettcher.github.io/evelyn_j_boettcher_cv"
-baseurl: "/evelyn_j_boettcher_cv"
+#baseurl: "/evelyn_j_boettcher_cv"
+baseurl: ""
 url: "https://ejboettcher.github.io"
 repo: "ejboettcher/evelyn_j_boettcher_cv"
+repository: "ejboettcher/evelyn_j_boettcher_cv"
 email: "evelyn.boettcher@gmail.com"
 header:
   overlay_image: "/assets/img/banner/green_painting.png"
   caption: "Evelyn J. Boettcher"
-  image_description: "Green painting bannar Image"
+  image_description: "Green painting banner Image"
 #google_analytics: UA-92956541-1
 css_inline: false 
 markdown: kramdown
@@ -94,7 +96,7 @@ navigation_header:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider    : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id  
     
@@ -104,7 +106,7 @@ analytics:
 collections:
   tutorials:
     output: true
-    permalink: /:collection/:path/
+    permalink: /tutorials/:path/
 
 
 # Defaults
@@ -122,11 +124,14 @@ defaults:
   # _tutorials
   - scope:
       path: ""
-      type: tutorials
+      type: posts
     values:
       layout: single
       author_profile: false
+      read_time: true
       share: true
+      related: true
+
     
 # Site Footer
 footer:
@@ -137,9 +142,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 
 # Liquid

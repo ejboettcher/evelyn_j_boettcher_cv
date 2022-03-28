@@ -1,8 +1,9 @@
 ---
 layout: home
-author_profile: false
+author_profile: true
 title: "Evelyn J Boettcher: CV"
 banner: "/assets/img/banner/green_painting.png"
+
 ---
 
 <meta name="twitter:card" content="summary" />
