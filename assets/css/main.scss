@@ -7,6 +7,24 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+
+body {
+  margin: 5px;
+  padding:10px;
+  min-height: 700px;
+  background: #FDF8FA,#F8FCFD;
+  background-color: radial-gradient(circle , #Fdf8fa , #f8fcfd )
+  background-color: -moz-radial-gradient(center, circle cover, #FDF8FA  0%,#F8FCFD 100%);
+  background-color: -webkit-radial-gradient(center, circle cover, #FDF8FA  0%,#F8FCFD 100%);
+  background-color: -o-radial-gradient(center, circle cover,  #FDF8FA  0%,#F8FCFD 100%);
+  background-color: -ms-radial-gradient(center, circle cover,  #FDF8FA  0%,#F8FCFD 100%);
+  background-color: radial-gradient(center, circle cover, #FDF8FA  0%,#F8FCFD 100%);
+  background-size: 12%, 6%, 100%;
+  background-repeat: no-repeat;
+  background-position: 2% 96%, 2% 3%, center;
+
+}
+
 button {
     border:1px solid #5f8724; border-radius:19px;
     box-shadow: 4px 4px 4px 0px rgba(0,0,0,0.1) 
