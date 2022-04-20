@@ -30,7 +30,7 @@ banner: "/assets/img/banner/green_painting.png"
 <section id="index-work" style="padding-bottom:15px">
 <div style="width:100%">
   <div class="btn-group" style="width:100%">
-        <button onclick="location.href='/tutorials';" class="button-left" style="width:30%">Explore tutorials</button>
+        <button onclick="location.href='/evelyn_j_boettcher_cv/tutorials';" class="button-left" style="width:30%">Explore tutorials</button>
         <button onclick="location.href='/publications';" class="button-centre" style="width:30%">See publications</button>
         <button onclick="location.href='/invent';" class="button-right" style=" width:31%">Seeinventions/creations</button>
   </div>
