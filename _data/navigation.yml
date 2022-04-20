@@ -2,9 +2,9 @@
 
 main:
   - title: "CV"
-    url:  "CV"
+    url:  cv
   - title: "Tutorials"
-    url: tutorials.html
+    url: tutorials
   - title: "Publications"
     url: publications.html
   - title: "Inventions"

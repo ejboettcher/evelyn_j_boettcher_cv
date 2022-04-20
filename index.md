@@ -27,12 +27,12 @@ banner: "/assets/img/banner/green_painting.png"
     <a href="https://www.linkedin.com/in/evelynboettcher/">LinkedIn</a> </big>
 </div>
 </div>
-<section id="index-work" style="padding-bottom:10px">
+<section id="index-work" style="padding-bottom:15px">
 <div style="width:100%">
   <div class="btn-group" style="width:100%">
-        <button onclick="location.href='/tutorials';" class="button-left" style="width:30%">Explore her tutorials</button>
-        <button onclick="location.href='/publications';" class="button-centre" style="width:30%">See her publications</button>
-        <button onclick="location.href='/invent';" class="button-right" style=" width:31%">See her inventions/creations</button>
+        <button onclick="location.href='/tutorials';" class="button-left" style="width:30%">Explore tutorials</button>
+        <button onclick="location.href='/publications';" class="button-centre" style="width:30%">See publications</button>
+        <button onclick="location.href='/invent';" class="button-right" style=" width:31%">Seeinventions/creations</button>
   </div>
 </div>
 </section>
