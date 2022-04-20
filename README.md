@@ -1,4 +1,4 @@
-Please go to [evelynboettcher.com](https://www.evelynboettcher.com)
+Please go to [evelynboettcher.com](http://www.evelynboettcher.com)
 
 ## PHYSICIST / Founder
 
