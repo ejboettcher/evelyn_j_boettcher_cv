@@ -46,16 +46,16 @@ author:
 
 # Site settings
 encoding: utf-8
-locale                   : "en-US"
-lang: en-US
-title: "Evelyn J. Boettcher"
-title_separator          : "-"
-subtitle                 : "CV"
+locale          : "en-US"
+lang            : en-US
+title           : "Evelyn J. Boettcher"
+title_separator : "-"
+subtitle        : "CV"
 tesser          : "/assets/img/logos/dayton_gearfilled@128px.png"
 logo            : "/assets/img/logos/dayton_gearfilled@128px.png"
 description: "Evelyn J. Boettcher CV"
 # baseurl: "https://ejboettcher.github.io/evelyn_j_boettcher_cv"
-baseurl: ""
+baseurl: "evelyn_j_boettcher_cv"
 url: "https://ejboettcher.github.io/evelyn_j_boettcher_cv"
 repo: "evelyn_j_boettcher_cv"
 repository: "evelyn_j_boettcher_cv"
