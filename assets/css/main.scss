@@ -6,3 +6,19 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+button {
+    border:1px solid #5f8724; border-radius:19px;
+    box-shadow: 4px 4px 4px 0px rgba(0,0,0,0.1) 
+    inset;margin: auto;
+    background-color: #6d9433;
+    width:100%;
+    height:3em;
+  }
+  
+  button:hover { background-color: var(--hover);}
+  button:active {
+    background-color: #6194bb;
+    box-shadow: 0 4px #666;
+    transform: translateY(4px);
+  }

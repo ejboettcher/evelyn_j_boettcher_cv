@@ -2,15 +2,14 @@
 
 main:
   - title: "CV"
-    url: https://ejboettcher.github.io/evelyn_j_boettcher_cv/
+    url: /CV/
   - title: "Tutorials"
     url: /tutorials/
   - title: "Publications"
     url: /publications/
   - title: "Inventions"
     url: /sitemap/
-  - title: "Posts"
-    url: /posts/
+
 
 
 # sidebar navigation list sample

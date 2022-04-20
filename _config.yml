@@ -89,6 +89,8 @@ navigation_header:
   url: /
 - title: Tutorials
   url: /tutorials.html
+- title: Publications
+  url: /publications.html
 - title: Contact
   url: /contact.html
 
@@ -101,7 +103,6 @@ analytics:
     tracking_id  
     
     
-
 # Collections
 collections:
   tutorials:
@@ -136,12 +137,9 @@ defaults:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/ejboettcher"
 
 
 
