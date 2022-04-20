@@ -43,4 +43,4 @@ banner: "/assets/img/banner/green_painting.png"
    </div>
 </section>
 
-{% include /CV/CV.md %}
+{% include CV/CV.md %}
