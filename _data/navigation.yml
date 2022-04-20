@@ -2,11 +2,11 @@
 
 main:
   - title: "CV"
-    url:  cv
+    url:  CV_page
   - title: "Tutorials"
     url: tutorials
   - title: "Publications"
-    url: publications.html
+    url: publications
   - title: "Inventions"
     url: /sitemap/
 

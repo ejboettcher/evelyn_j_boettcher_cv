@@ -2,7 +2,7 @@
 layout: home
 title: "Tutorials"
 author_profile: false
-banner: "../assets/img/banner/green_painting.png"
+banner: "/assets/img/banner/green_painting.png"
 redirect_from:
   - /tutorials/
 ---
@@ -34,10 +34,10 @@ redirect_from:
         	<a href="{{ site.baseurl }}/tutorials/AluminumBoats">
         		<div class="tuthex">
             		<img src="{{ site.baseurl }}/assets/img/tutorial/hotwaterfooddye.jpg" alt="density">
-        		</div>
+        		<h2>Aluminum Boats</h2>
+				</div>
         		<div class="tutdesc">
-                		<h2>Aluminum Boats</h2>
-                		<p>Density: Why metal boats float</p>
+                	<p>Density: Why metal boats float</p>
         		</div>
             </a>
     	</div>
