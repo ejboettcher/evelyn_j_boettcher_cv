@@ -49,7 +49,7 @@ encoding: utf-8
 locale                   : "en-US"
 lang: en-US
 title: "Evelyn J. Boettcher"
-redirect_to: http://evelyn.boettcher.com
+
 title_separator          : "-"
 subtitle                 : "CV"
 tesser: "/assets/img/logos/dayton_gearfilled@128px.png"
