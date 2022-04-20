@@ -13,15 +13,15 @@ exclude:
 # Installed gems
 plugins:
   - jekyll-include-cache
-  #  - jekyll-target-blank
-  #  - jekyll-redirect-from
+  - jekyll-target-blank
+  - jekyll-redirect-from
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-include-cache
-  - jekyll-redirect-from
+
+ 
 
 # Gem settings
 
@@ -49,15 +49,14 @@ encoding: utf-8
 locale                   : "en-US"
 lang: en-US
 title: "Evelyn J. Boettcher"
-
 title_separator          : "-"
 subtitle                 : "CV"
-tesser: "/assets/img/logos/dayton_gearfilled@128px.png"
-logo                     : "/assets/img/logos/dayton_gearfilled@128px.png"
+tesser          : "/assets/img/logos/dayton_gearfilled@128px.png"
+logo            : "/assets/img/logos/dayton_gearfilled@128px.png"
 description: "Evelyn J. Boettcher CV"
 # baseurl: "https://ejboettcher.github.io/evelyn_j_boettcher_cv"
 baseurl: ""
-url: "https://ejboettcher.github.io"
+url: "https://ejboettcher.github.io/evelyn_j_boettcher_cv"
 repo: "ejboettcher/evelyn_j_boettcher_cv"
 repository: "ejboettcher/evelyn_j_boettcher_cv"
 email: "evelyn.boettcher@gmail.com"
