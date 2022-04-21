@@ -1,4 +1,19 @@
-# CO2 Solubility
+---
+title: "CO2 Solubility"
+header:
+  teaser: "assets/imgs/tutorial/soapfoam3.png"
+categories:
+  - Physics
+  - Chemistry
+tags:
+  - CO2
+  - Science
+  - Easy
+  - Physics
+toc: true
+toc_sticky: true
+---
+
 
 This experiment, like the sugar solubility, is about the the solubility of things, Instead of solids its gases and how they differ when it comes to solubility.  
 

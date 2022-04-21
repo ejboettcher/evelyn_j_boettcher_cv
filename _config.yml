@@ -94,6 +94,7 @@ navigation_header:
 - title: Contact
   url: /contact.html
 
+
 # Define collections
 
 # Analytics
@@ -125,7 +126,7 @@ defaults:
   # _tutorials
   - scope:
       path: ""
-      type: posts
+      type: tutorials
     values:
       layout: single
       author_profile: false

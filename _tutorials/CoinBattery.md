@@ -1,7 +1,21 @@
-# Coin Battery
+---
+title: "Coin Battery"
+header:
+  teaser: "../images/coin_battery.jpg"
+categories:
+  - Physics
+  - Chemistry
+tags:
+  - Battery
+  - Science
+  - Easy
+  - Physics
+toc: true
+toc_sticky: true
+---
 
 
-We can turn pocket change into a battery that can light up a light!
+We can turn pocket change into a battery that can power a light!
 
 With the right coins and with care when we connect them together we can build a real battery.
 

@@ -1,0 +1,46 @@
+/* ==========================================================================
+   ========================================================================== */
+
+/* Colors */
+$background-color: #faf8f8 !default;
+$text-color: #222831 !default;
+$muted-text-color: #393e46 !default;
+$primary-color: #5f8724 !default;
+$border-color: mix(#fff, #393e46, 75%) !default;
+$footer-background-color: $primary-color !default;
+$link-color: #393e46 !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+.page__footer {
+  color:#f1f5eb !important;
+ 
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}
+
+
+
+/* Colors */
+$background-color: #f1f1f1 !default;
+$text-color: #222831 !default;
+$muted-text-color: #393e46 !default;
+$primary-color: #037baa !default;
+$border-color: mix(#fff, #393e46, 75%) !default;
+$footer-background-color: $primary-color !default;
+$link-color: #393e46 !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: $text-color !default;
+$navicon-link-color-hover: mix(#fff, $text-color, 80%) !default;
+
+.page__footer {
+  color:#f1f5eb !important;
+  
+}
+
+.page__footer-follow .social-icons .svg-inline--fa {
+  color: inherit;
+}

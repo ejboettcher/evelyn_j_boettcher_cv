@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: tutorial
 title: "Tutorials"
 author_profile: false
 banner: "/assets/img/banner/green_painting.png"
@@ -17,10 +17,8 @@ redirect_from:
  <ul>
     <li>Adult supervision RECOMMENDED</li>
 </ul>
-      
  <li>Emphasize that science is all around us and not just something that happens in a lab.</li>
 <ul>
-      
 <li>One way to do that, is to use everyday objects to do science.</li>
 </ul>
 <li> Doable in less than an hour</li>
@@ -36,10 +34,11 @@ redirect_from:
             		<img src="{{ site.baseurl }}/assets/img/tutorial/hotwaterfooddye.jpg" alt="density">
         		<h2>Aluminum Boats</h2>
 				</div>
-        		<div class="tutdesc">
+			</a>
+        	<div class="tutdesc">
                 	<p>Density: Why metal boats float</p>
-        		</div>
-            </a>
+        	</div>
+            
     	</div>
     </div>
- </div>    	
+</div>    	

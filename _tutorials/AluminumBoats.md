@@ -1,20 +1,23 @@
 ---
-layout: tutorial
-title: Aluminum Foil Boats
-subtitle: How metal boat floats
+title: "Aluminum Foil Boats"
+header:
+  teaser: "assets/images/markup-syntax-highlighting-teaser.jpg"
+categories:
+  - Physics
+tags:
+  - Physics
+  - density 
+  - science 
+toc: true
+toc_sticky: true
+subtitle: "How metal boat floats"
 date: 2018-03-21 
-author: Boettcher
-author_profile: false
-tags: physics, density, science 
+author: Evelyn Boettcher
 ---
 
-
-# Aluminum Foil Boats
-
-
-## Goal
-Goal: Try to answer or at least cause wonder with the question below:
 * ***How Can a 2 Ton Steel Boat Float?***
+
+Goal: Try to answer or at least cause wonder with the question below:
 
 
 ## Materials
