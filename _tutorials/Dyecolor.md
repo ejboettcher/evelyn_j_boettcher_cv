@@ -1,4 +1,17 @@
-# Food Dye Experiment
+---
+title: "Food Dye Experiment"
+header:
+  teaser: "../images/coldwaterfooddye.jpg"
+categories:
+  - Physics
+tags:
+  - Diffussion
+  - Science
+  - Easy
+  - Physics
+toc: true
+toc_sticky: true
+---
 
 This experiment shows the difference in how food dye acts when in cold water and hot water.  
 

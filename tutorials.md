@@ -5,6 +5,7 @@ author_profile: false
 banner: "/assets/img/banner/green_painting.png"
 redirect_from:
   - /tutorials/
+toc: true
 ---
 
 <div class="content-new-info">
@@ -25,20 +26,3 @@ redirect_from:
 </ul>
 </div>
 
-<div id="accordion">
-	<h4>Physics Tutorials</h4>
-	<div class="tutpanel">
-    	<div class="tutcont">
-        	<a href="{{ site.baseurl }}/tutorials/AluminumBoats">
-        		<div class="tuthex">
-            		<img src="{{ site.baseurl }}/assets/img/tutorial/hotwaterfooddye.jpg" alt="density">
-        		<h2>Aluminum Boats</h2>
-				</div>
-			</a>
-        	<div class="tutdesc">
-                	<p>Density: Why metal boats float</p>
-        	</div>
-            
-    	</div>
-    </div>
-</div>    	

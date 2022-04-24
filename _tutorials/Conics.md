@@ -1,4 +1,21 @@
-# Conics: Ellipse, parabola, hyperbola
+---
+title: "Conics"
+header:
+  teaser: "../images/conics13.jpg"
+categories:
+  - Physics
+  - Math
+tags:
+  - Math
+  - Science
+  - Easy
+  - Physics
+  - Conics
+toc: true
+toc_sticky: true
+---
+
+
 Conics in mathematics and geometry in particular is an import concept 
 to understand.  
 

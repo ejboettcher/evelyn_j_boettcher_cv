@@ -1,4 +1,17 @@
-# Dry Ice Ice Cream:  
+---
+title: "Dry Ice Ice Cream"
+header:
+  teaser: "../images/1450816777062.jpg"
+categories:
+  - Chemistry
+tags:
+  - Ice-cream
+  - Science
+  - Easy
+  - FoodS
+toc: true
+toc_sticky: true
+---
 
 Dry ice ice cream is a quick easy way to make Ice Cream. and learn a little food science.  Bonus, the ice cream can become carbonated with this method too.
 

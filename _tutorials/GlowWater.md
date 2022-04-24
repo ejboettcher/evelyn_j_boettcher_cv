@@ -1,4 +1,19 @@
-# Glow Water
+---
+title: "Glow Water"
+header:
+  teaser: "../images/glassquantum.png"
+categories:
+  - Physics
+  - Chemistry
+tags:
+  - Science
+  - Hard
+  - Physics
+toc: true
+toc_sticky: true
+---
+
+
 This sounded AWESOME: Physics and Chemistry combined.  Nifty visible proof in why we need physics and why we need quantum mechanics.
 
 

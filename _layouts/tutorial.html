@@ -36,17 +36,83 @@
       </div>
     {% endif %}
 
-	<h2>Tutorials</h2>
-	
+	<div class="container-image">	
+		<img src= "assets/img/banner/green_painting_sm.png" alt="Banner image">
+		<div class="centered">
+			<h2>>Math Tutorials</h2>
+		</div>
+	</div>
+
+
 	<section id="tutorial" class="taxonomy__section">
 	  <div class="entries-{{ entries_layout }}">
+
 		{% for post in site.tutorials %}
+		{% if post.categories contains "Math" %}
 			{% include archive-single.html type=entries_layout %}
+	    {% endif %}
 		{% endfor %}
 	  </div>
 	  <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
 	</section>
 	
+	<div class="container-image">	
+		<img src= "assets/img/banner/green_painting_sm.png" alt="Banner image">
+		<div class="centered">
+			<h2>Physics Tutorials</h2>
+		</div>
+	</div>
+
+	
+	<section id="tutorial" class="taxonomy__section">
+	  <div class="entries-{{ entries_layout }}">
+
+		{% for post in site.tutorials %}
+		{% if post.categories contains "Physics" %}
+			{% include archive-single.html type=entries_layout %}
+	    {% endif %}
+		{% endfor %}
+	  </div>
+	  <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+	</section>
+
+	<div class="container-image">	
+		<img src= "assets/img/banner/green_painting_sm.png" alt="Banner image">
+		<div class="centered">
+			<h2>Chemistry Tutorials</h2>
+		</div>
+	</div>
+
+	<section id="tutorial" class="taxonomy__section">
+	  <div class="entries-{{ entries_layout }}">
+
+		{% for post in site.tutorials %}
+		{% if post.categories contains "Chemistry" %}
+			{% include archive-single.html type=entries_layout %}
+	    {% endif %}
+		{% endfor %}
+	  </div>
+	  <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+	</section>
+
+	<div class="container-image">	
+		<img src= "assets/img/banner/green_painting_sm.png" alt="Banner image">
+		<div class="centered">
+			<h2>Coding Tutorials</h2>
+		</div>
+	</div>
+	<h3>Soon</h3>
+	<section id="tutorial" class="taxonomy__section">
+	  <div class="entries-{{ entries_layout }}">
+
+		{% for post in site.tutorials %}
+		{% if post.categories contains "Coding" %}
+			{% include archive-single.html type=entries_layout %}
+	    {% endif %}
+		{% endfor %}
+	  </div>
+	  <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+	</section>
     
 
 	{% assign entries_layout = page.entries_layout | default: 'list' %}

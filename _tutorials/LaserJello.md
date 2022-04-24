@@ -1,5 +1,18 @@
+---
+title: "Jello Lasers"
+header:
+  teaser: "../images/jello_beakerlaser.jpg"
+categories:
+  - Physics
+tags:
+  - Lasers
+  - Science
+  - Easy
+  - Physics
+toc: true
+toc_sticky: true
+---
 
-# Lasers and Jello
 Not quite Sharks With Lasers.  
 However, jello makes an excellent medium that kids can use to design and
 create lenses to explore properties of light.
