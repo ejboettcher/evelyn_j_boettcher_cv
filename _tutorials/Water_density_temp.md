@@ -1,4 +1,22 @@
-# Water's Density
+
+---
+title: "Desity: Water as function of Temperature"
+header:
+  teaser: "../images/waterTempDensity.png"
+categories:
+  - Physics
+
+tags:
+  - Density
+  - Temperature
+  - Science
+  - Easy
+  - Physics
+toc: true
+toc_sticky: true
+---
+
+
 
 Measuring Water's density as a function of temperature
 

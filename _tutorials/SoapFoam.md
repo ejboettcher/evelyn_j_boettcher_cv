@@ -1,10 +1,27 @@
+---
+title: "Elephant Soap / Unicorn Poo"
+header:
+  teaser: "images/UnicornPoo.png"
+categories:
+  - Physics
+  - Chemistry
+tags:
+  - Chemistry
+  - CO2
+  - Science
+  - Easy
+  - Physics
+toc: true
+toc_sticky: true
+---
 
-# Soap Foam AKA Elephant Soap, or Unicorn Poo
-![Unicorn Poop Image](../images/UnicornPoo.png)
+
+
 
 Hydrogen Peroxide (H2O2) when mixed with a yeast (a catalyst) produces Water (H2O), Oxygen (O) and HEAT.
 Add soap to capture the Oxygen creates a hot, soapy, mixture.
 
+![Unicorn Poop Image](../images/UnicornPoo.png)
 
 ## Goal
 Science is FUN and that you can do it at home!

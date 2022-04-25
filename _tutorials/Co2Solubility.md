@@ -3,13 +3,12 @@ title: "CO2 Solubility"
 header:
   teaser: "assets/imgs/tutorial/soapfoam3.png"
 categories:
-  - Physics
   - Chemistry
 tags:
   - CO2
   - Science
   - Easy
-  - Physics
+  - Chemistry
 toc: true
 toc_sticky: true
 ---

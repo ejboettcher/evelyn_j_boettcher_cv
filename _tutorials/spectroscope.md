@@ -1,4 +1,20 @@
-# Measuring Light
+---
+title: "Spectroscope"
+header:
+  teaser: "images/fullspectrumlight.jpg"
+categories:
+  - Physics
+  - Chemistry
+tags:
+  - Battery
+  - Science
+  - Easy
+  - Physics
+toc: true
+toc_sticky: true
+---
+
+
 Before the periodic table was made and ~ 30 years before it was found on Earth, scientist predicted that Helium must exist by looking at the light the sum emitted!  When matter is heated it emits a unique signatures of light.  This light spectrum is related to its atomic structure.  One can use prisms and diffraction gratings (old CD can also be used for this) to split light into it's individual wavelengths.  
 
 Here were explore the differences between LED, Halogen, lights.  (FYI: splitting light into it's individual wavelengths is used all the time for fiber optic communication.  Each (say TV) channel is on it's own color of light).

@@ -1,10 +1,25 @@
-# Sodium
+---
+title: "Sodium"
+header:
+  teaser: "../images/sodium.png"
+categories:
+  - Chemistry
+tags:
+  - Chemistry
+  - Science
+  - Easy
+  - Dangerous
 
-## Objective
-Give kids first hand experience with chemical properties.
+toc: true
+toc_sticky: true
+---
+
+
+DANGEROUS
+Give kids first hand experience with chemical properties. 
 
 Let them see how those properties change significantly when a molecule is formed.  
-![Sodium](../images/sodium.png)
+![Sodium](../images/sodium.png).  Example: Salt
 
 ## Talking Points
 Salt is made up of two elements: Sodium and Chlorine.
@@ -15,6 +30,7 @@ Salt is made up of two elements: Sodium and Chlorine.
 
 
 ### Physical properties:
+
 Salt:
 * Clear crystal.
 * Hard

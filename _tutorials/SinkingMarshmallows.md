@@ -1,5 +1,21 @@
-# How to Sink a Marshmallow  
+---
+title: "How to Sink a Marshmallow"
+header:
+  teaser: ""
+categories:
+  - Physics
+tags:
+  - Density
+  - Science
+  - Easy
+  - Physics
+toc: true
+toc_sticky: true
+---
+
+
 Adapted from [How Things Work: How To Sink A Marshmallow](https://www.parenting.com/gallery/easy-science-fair-projects/)
+
 ### The purpose of this project is to find out whether or not the marshmallow sinks with the ingredients added.
 Time: 5 to 10 minutes   
 Skill Level: Medium   

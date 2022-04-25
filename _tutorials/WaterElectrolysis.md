@@ -1,9 +1,29 @@
-# Water Electrolysis: H2O to 2H and O
-![H2O Lego](../images/H2O_Lego_2.jpg )
+---
+title: "Water Electrolysis"
+header:
+  teaser: "../images/H20_Lego_2.jpg"
+categories:
+  - Chemistry
+tags:
+  - Electrolysis
+  - CO2
+  - Science
+  - Easy
+  - Chemistry
+toc: true
+toc_sticky: true
+---
+
+
+
+
+
 
 Electrolysis of water is the decomposition of water into oxygen and hydrogen gas due to the passage of an electric current. The reaction has a standard potential of −1.23 V.
 
  That means if you supply a potential difference greater than 1.23 volts you can split water!  Say with a 9V battery, you can make some gas!!!
+
+![H2O Lego](../images/H2O_Lego_2.jpg )
 
  **NOTE:**  The Hydrogen side makes twice as much gas as the oxygen side because it is H2  O.  
 

@@ -1,5 +1,22 @@
-# Plasma with Grapes
- WARNING: THIS MAY DESTROY YOUR MICROWAVE
+---
+title: "Plasma with Grapes"
+header:
+  teaser: "images/plasma_sm.gif"
+categories:
+  - Physics
+tags:
+  - Plasma
+  - Dangerous
+  - Science
+  - Easy
+  - Physics
+toc: true
+toc_sticky: true
+---
+
+
+ WARNING: THIS MAY DESTROY YOUR MICROWAVE.
+ Generate  a plasma with grapes!
  ![Plasma Gif](../images/plasma_sm.gif)
 
  | ![Plasma Setup](../images/plasma_setup.jpg ) |

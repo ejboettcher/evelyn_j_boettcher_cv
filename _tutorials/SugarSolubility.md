@@ -1,4 +1,18 @@
-# Sugar Solubility
+---
+title: "Sugar Solubility"
+header:
+  teaser: "../images/ChartCo2andSugar.png"
+categories:
+  - Chemistry
+tags:
+  - Solubility
+  - Science
+  - Easy
+  - Chemistry
+toc: true
+toc_sticky: true
+---
+
 
 This is an experiment about the saturation point of solids in liquids (specifically water and sugar). This is in contrast to gases in liquids. [Co2 Solubility](Co2Solubility.md)
 

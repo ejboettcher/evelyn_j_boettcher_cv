@@ -1,4 +1,19 @@
-# Different Materials in Water
+---
+title: Solutions and Mixtures
+header:
+  teaser: "../images/coin_battery.jpg"
+categories:
+  - Chemistry
+tags:
+  - solution
+  - mixtures
+  - Science
+  - Easy
+  - Chemistry
+toc: true
+toc_sticky: true
+---
+
 
 This experiment is about finding the difference in materials, when the mix into water.  You will see some materials make solutions and others mixtures.
 
