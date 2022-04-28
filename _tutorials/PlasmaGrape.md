@@ -17,11 +17,13 @@ toc_sticky: true
 
  WARNING: THIS MAY DESTROY YOUR MICROWAVE.
  Generate  a plasma with grapes!
+
  ![Plasma Gif](../images/plasma_sm.gif)
 
  | ![Plasma Setup](../images/plasma_setup.jpg ) |
  |:--|
  | ![Plasma After](../images/plasma_after.jpg) |
+ 
 ## Goal
 Show that plasma is a state of matter that can be made at home, just like you can do with the other (main) three: Solid, Liquid and Gas.
 
