@@ -16,7 +16,7 @@ date: 2021-01-21
 author: Evelyn Boettcher
 ---
 
-This poem was imspired by Amanda Gorman.  She had the same speech impediment that I had, however while I turned away from language she embrased it.  
+This poem was imspired by Amanda Gorman.  She had the same speech impediment that I had, however while I turned away from language she embraced it.  
 
 
 ## Where Are You From
