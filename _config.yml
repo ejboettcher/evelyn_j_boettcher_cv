@@ -95,6 +95,8 @@ navigation_header:
   url: /publications.html
 - title: Contact
   url: /contact.html
+- title: Leasure Writings
+  url: /writings.html
 
 
 # Define collections
@@ -112,6 +114,9 @@ collections:
   tutorials:
     output: true
     permalink: /tutorials/:path/
+  writings:
+    output: true
+    permalink: /writings/:path/
 
 
 # Defaults

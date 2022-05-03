@@ -19,12 +19,12 @@ author: Evelyn Boettcher
 
 Cloud Haiku entry to kick start HackOtober Fest!
 
-![Cloud Haiku](https://github.com/do-community/cloud_haiku/blob/main/_haikus/pylint.md)
+[Cloud Haiku](https://github.com/do-community/cloud_haiku/blob/main/_haikus/pylint.md)
 
 ## Prayer to Pylint 
 
 ~~~text
 my code failed again
-C I in the cloud please take
-pylint be my friend=
+CI in the cloud please take
+pylint be my friend
 ~~~
