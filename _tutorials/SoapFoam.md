@@ -19,7 +19,7 @@ toc_sticky: true
 
 
 Hydrogen Peroxide (H2O2) when mixed with a yeast (a catalyst) produces Water (H2O), Oxygen (O) and HEAT.
-Add soap to capture the Oxygen creates a hot, soapy, mixture.
+By adding soap, we can capture the Oxygen to create this a hot, soapy, mixture.
 
 ![Unicorn Poop Image](../images/UnicornPoo.png)
 

@@ -15,12 +15,13 @@ date: 2018-03-21
 author: Evelyn Boettcher
 ---
 
-* ***How Can a 2 Ton Steel Boat Float?***
+***How can a 2 ton steel boat float?***
 
-Goal: Try to answer or at least cause wonder with the question below:
+Goal: Try to answer or at least cause wonder with the question above:
 
 
 ## Materials
+
 * Square sheet of aluminum Foil
 * About 100 pennies
 * Tub/sink filled with water
