@@ -1,15 +1,58 @@
 # main links
-
 main:
   - title: "CV"
-    url:  CV_page
+    url: CV_page
   - title: "Tutorials"
     url: tutorials
   - title: "Publications"
     url: publications
   - title: "Inventions"
     url: /sitemap/
-  
+
+
+
+
+# Sidebar for tutorials
+tutorials:
+  - title: "Physics"
+    children:
+      - title: "AluminumBoats"
+        url: /tutorials/AluminumBoats/
+      - title: "CoinBattery"
+        url: /tutorials/CoinBattery/
+      - title: "Glow Water"
+        url: /tutorials/GlowWater/
+      - title: "Lasers and Jello"
+        url: /tutorials/LaserJello/
+      - title: "Plasma with Grape"
+        url: /tutorials/PlasmaGrape/
+      - title: "Spliting Light"
+        url: tutorials/spectroscope/
+
+  - title: "Chemistry"
+    children:
+      - title: "Co2Solubility"
+        url: /tutorials/Co2Solubility/
+      - title: "Diffusion and Temperature"
+        url: /tutorials/Dyecolor/
+      - title: "CO2 and IceCream"
+        url: /tutorials/IceCream/
+      - title: "Unicorn Poo"
+        url: /tutorials/SoapFoam/
+      - title: "Sodium and Salt"
+        url: /tutorials/Sodium/
+      - title: "Sugar Solubility"
+        url : /tutorials/SugarSolubility/
+      - title: "Water Density and Temperature"
+        url: /tutorials/Water_density_temp/
+      - title: "Water Electrolysis"
+        url: /tutorials/WaterElectrolysis/
+
+  - title: "Math"
+    children:
+      - title: "Conics"
+        url: /tutorials/Conics/
+
 
 
 

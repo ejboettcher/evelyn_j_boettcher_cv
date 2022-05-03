@@ -1,4 +1,3 @@
-
 ---
 title: "Desity: Water as function of Temperature"
 header:

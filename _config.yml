@@ -136,6 +136,8 @@ defaults:
       read_time: true
       share: true
       related: true
+      sidebar:
+        nav: "tutorials"
 
     
 # Site Footer
