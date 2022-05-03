@@ -1,10 +1,10 @@
 ---
 layout: home
-title: "Publications"
+title: "Inventions"
 author_profile: true
-banner: "/assets/img/banner/green_painting.png"
+banner: "assets/img/banner/green_painting.png"
 redirect_from:
-  - /publications/
+  - /inventions/
 ---
 
 

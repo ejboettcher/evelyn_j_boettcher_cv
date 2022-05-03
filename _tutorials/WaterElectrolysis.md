@@ -15,10 +15,6 @@ toc_sticky: true
 ---
 
 
-
-
-
-
 Electrolysis of water is the decomposition of water into oxygen and hydrogen gas due to the passage of an electric current. The reaction has a standard potential of −1.23 V.
 
  That means if you supply a potential difference greater than 1.23 volts you can split water!  Say with a 9V battery, you can make some gas!!!

@@ -138,7 +138,17 @@ defaults:
       related: true
       sidebar:
         nav: "tutorials"
-
+  # _Writings
+  - scope:
+      path: ""
+      type: writings
+    values:
+      layout: single
+      author_profile: false
+      read_time: true
+      share: true
+      related: true
+      
     
 # Site Footer
 footer:
