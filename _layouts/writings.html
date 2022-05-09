@@ -16,13 +16,43 @@ layout: splash
 </ul>
 
 
-  <section id="writing" class="taxonomy__section">
-    <h2 class="archive__subtitle"></h2>
-    <div class="entries-{{ entries_layout }}">
-      {% for post in site.writings %}
-        {% include archive-single.html type=entries_layout %}
-      {% endfor %}
+  {% for cat_key in page.categories %}
+    <div class="container-image">
+		<img src= "assets/img/banner/green_painting_sm.png" alt="Banner image">
+		<div class="centered">
+	    	<h2>{{ cat_key }} </h2>
+        </div>
     </div>
-    <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
-  </section>
+		<section id="writings" class="taxonomy__section">
+			<div class="entries-{{ entries_layout }}">
+				{% for post in site.writings %}
 
+					{% if post.categories contains cat_key %}
+						{% include archive-single.html type=entries_layout %}
+					{% endif %}
+				{% endfor %}
+			</div>
+			<a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+		</section>
+    {% endfor %}
+
+
+	{% assign entries_layout = page.entries_layout | default: 'list' %}
+	{% assign postsByYear = site.posts | where_exp: "item", "item.hidden != true" | group_by_exp: 'post', 'post.date | date: "%Y"' %}
+	{% for year in postsByYear %}
+	  <div id="{{ year.name }}" class="taxonomy__section">
+		<h2 class="archive__subtitle">Posts {{ year.name }}</h2>
+		<div class="entries-{{ entries_layout }}">
+		  {% for post in year.items %}
+			{% include archive-single.html type=entries_layout %}
+		  {% endfor %}
+		</div>
+
+		<a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+
+	  </div>
+	{% endfor %}
+
+
+
+    {% include scripts.html %}

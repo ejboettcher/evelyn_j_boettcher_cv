@@ -7,7 +7,7 @@ main:
   - title: "Publications"
     url: publications
   - title: "Inventions"
-    url: /inventions/
+    url: inventions
   - title: "Writing Fun"
     url: writings
 

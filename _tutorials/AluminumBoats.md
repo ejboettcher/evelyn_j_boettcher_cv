@@ -12,7 +12,7 @@ toc: true
 toc_sticky: true
 subtitle: "How metal boat floats"
 date: 2018-03-21 
-author: Evelyn Boettcher
+author: Evelyn J. Boettcher
 ---
 
 ***How can a 2 ton steel boat float?***
