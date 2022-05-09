@@ -30,16 +30,15 @@ banner: "/assets/img/banner/green_painting.png"
 <section id="index-work" style="padding-bottom:15px">
 <div style="width:100%">
   <div class="btn-group" style="width:100%">
-        <button onclick="location.href= '{{ site.baseurl }}/tutorials';" style="width:30%">Explore tutorials</button>
+        <button onclick="location.href='{{ site.baseurl }}/tutorials';" style="width:30%">Explore tutorials</button>
         <button onclick="location.href='{{ site.baseurl }}/publications';" style="width:30%">Publications</button>
-        <button onclick="location.href='{{ site.baseurl }}/invent';" style=" width:31%">Inventions</button>
+        <button onclick="location.href='{{ site.baseurl }}/inventions';" style=" width:31%">Inventions</button>
   </div>
 </div>
 </section>
 <section id="portfolio-work" style="background-color: #c4d7d7; padding-bottom:20px; padding-top:20px width:100%">
-<div class="content-new-streams">
- <img src="{{ site.baseurl }}/assets/img/index/evelyn_pandas_talk.jpeg" alt="Evelyn panda talk">
-  
+    <div class="content-new-streams">
+        <img src="{{ site.baseurl }}/assets/img/index/evelyn_pandas_talk.jpeg" alt="Evelyn panda talk">
    </div>
 </section>
 
