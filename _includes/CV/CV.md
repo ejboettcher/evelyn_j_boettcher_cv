@@ -11,51 +11,66 @@
 
 ## TECHNICAL SKILLS
 
-Wide range of hardware and software skills.  
 
-**Images & videos:** Processing and analysis with Python, JavaScript,
-Julia, MatLab, GIMP & ImageJ for computer vision, magnetic navigation, 
-machine learning & human performance analysis.
+Wide range of skills that have enabled her to jump in on any aspects of
+a project ranging from data processing and analysis (messy data on low
+performance computers) to sensor system development. She has a passion
+for developing prototypes and sharing her knowledge.
 
-**Skills:** Algorithm analysis & development, Mobile app development &
-3D printing, NV-IPM/ NVThermIP, Image Metrology: Camera calibration &
-measure extraction, Fiber optics, Fiber Bragg Grating Fabrication
+**Data Science:** Processing and analysis large data 
 
-**Sensors:** Magnetic, Thermal (MWIR, LWIR and passive mmW), SWIR, Hyperspectral
-Imagery (HSI), LiDAR, and Visible Imaging and Video (FMV)
+**Teaching:** Developed a two python courses for AFIT with focus on data
+visualization and numerical analysis. Volunteers to promote STEM by
+giving free workshops: Django Girls, GDI python, etc.
 
-**Programming:** Python, JavaScript, Bash, C, Matlab, Julia, Android
-Studios, Dot 
+**Skills:** Algorithm analysis & development, integrated hardware
+development & hardware prototyping, Image Metrology: Camera calibration
+& measure extraction, Fiber optics, Fiber Bragg Grating Fabrication
 
-**Simulators:** Experience with GT-LiDAR simulator, ROS/Gazebo and Blender
+**Sensors:** Magnetic, Thermal (MWIR, LWIR and passive mmW), SWIR,
+Hyperspectral Imagery (HSI), LiDAR, and Visible Imaging and Video (FMV)
+
+**Programming:** Python, JavaScript / HTML, bash, Dot & C
+
+**Images & videos**: Processing and analysis with Python, JavaScript,
+Julia, MatLab, GIMP & ImageJ for computer vision, machine learning &
+human performance analysis.
+
+**Systems:** Linux, CentOS, Arduino, EPS32, Raspberry Pi.
 
 ## PROFESSIONAL EXPERIENCE
 
 **DiDacTex, LLC:** Dayton, OH May 2014 – Present
 
+
 Founder / Principal
 
 Created a women owned small business that focuses on extracting
 information within images. Boettcher runs the day to day operations of
-DiDacTex and performs direct support to AFRL and AFIT customers.
+DiDacTex, Research and Development and performed direct support to
+customers.
 
 -   Business Development:
 
-    -   Evelyn Boettcher works with other companies to write proposals
-    -   Negotiate prices for contracts
-    -   Hires / Fires employees
-    -   Evelyn Boettcher is in charge of all accounts and account
-        balances.
+    As a small business Evelyn Boettcher wore many hats:
 
--   Direct Works: Evelyn Boettcher also works directly with customers in
-    contracts
+    -   Proposals writing including team proposals work
+    -   Negotiations, Human Resource, Accounts Payable etc.
 
-    -   [Magnetic Navigation](https://www.445aw.afrc.af.mil/News/Article-Display/Article/2738695/c-17-good-platform-for-magnav-development/): Designed, built and tested a magnetic navigation
-        sensor system.  Involved designedin PCB boards, programing micro processors and
-        created a visualization system to detect magnetic fields.
+-   Direct Works:
+
+    -   Magnetic Navigation: Designed, built and tested a magnetic
+        navigation sensor system. Involved designing PCB boards,
+        programming micro processors and created a visualization system
+        to detect magnetic fields.
+    -   Python Course: developed two different python courses that where
+        customized to AFIT's needs. Students learned a range of skills
+        the collimated with having them read a paper on using SVD's for
+        curve fitting and then code it up so that they can apply that
+        algorithm to real data enabling them to apply an FFT.
     -   Analyzed large data to find correlations between Elint and
         tracks.
-    -   Processed SWAMI’s Blue Heron LWIR HSI data to feed into DARPA’s
+    -   Processed SWAMI's Blue Heron LWIR HSI data to feed into DARPA's
         InSight system
     -   UAS Detection from their LiDAR sensor using IP cameras.
     -   Worked with a ROS (Robot OS) /Gaszebo LiDAR simulator to
@@ -63,7 +78,7 @@ DiDacTex and performs direct support to AFRL and AFIT customers.
         ATR in a simulated environment.
     -   Developed web applications to to render 3D models for AFRL
         Sensors Target Model Library
-    -   Developed and published android applications for DiDacTex’s
+    -   Developed and published android applications for DiDacTex's
         internal efforts
     -   Maintainer and Feature Developer to AFRL Visual Annotator (AVA)
         truthing tool
@@ -110,7 +125,7 @@ understand the variables that affect performance in automatic detection
 algorithms and provide the community with a rich source of data and
 experiments to further development.
 
--   Built image readers for HSI imagery and specra signatures.
+-   Built image readers for HSI imagery and spectral signatures.
 -   Analyzed and characterized spectral signatures
 -   Measured performance of HSI detection algorithms
 
@@ -154,22 +169,23 @@ LWIR, MWIR, SWIR, mmW, and visible.
 
 Electico-Optical Engineer Aug. 2000-March 2003
 
--   -   -   Assumed full responsibility for analyzing competitors,
-            writing technical specification, and procuring of equipment
-            as the Marketing-Technical Liaison
-        -   Designed and executed LabVIEW and Visual Basic programs for
-            the automation of hardware
-        -   testing as well as collaborated with the Test and
-            Measurement groups
-        -   Integrated system to write specialty Fiber Bragg Grating
-            (FBG); fabricated the 1<sup>st</sup> 3 gratings sold
-        -   Designed, built, and tested mechanical tunable filter
-            dispersion compensating device
-        -   Used AutoCAD thermal form packaging for designing Gratings
-            being shipped to customer
+-   Assumed full responsibility for analyzing  competitors,
+    writing technical specification, and procuring of equipment
+    as the Marketing-Technical Liaison
+-   Designed and executed LabVIEW and Visual Basic programs for
+    the automation of hardware
+-   testing as well as collaborated with the Test and
+    Measurement groups
+-   Integrated system to write specialty Fiber Bragg Grating
+    (FBG); fabricated the 1<sup>st</sup> 3 gratings sold
+-   Designed, built, and tested mechanical tunable filter
+    dispersion compensating device
+-   Used AutoCAD thermal form packaging for designing Gratings
+    being shipped to customer
 
 **Accomplishments:**
 
+\* Designed a Magnetic Sensor System
 \* Successfully acquired two patents, \# 6,738,536 and \#6,944,372 as
 lead investigator
 
