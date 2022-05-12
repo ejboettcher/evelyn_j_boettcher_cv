@@ -31,6 +31,7 @@ feature_row:
 - STEM Outreach: [WPAFB: Educational outreach](https://www.youtube.com/watch?v=9x0lPsfbQdo) (2021)
 - Pub Science: [*Lights, Camera, H-Bar*](https://drive.google.com/file/d/0BzCwhHRUxz7Yc2RnR3otOUZPelk/view?usp=sharing):
  Calculate Plank's constant while drinking a beer with LEDs.
+ ![PubScience](assets/img/tutorial/pubscience.jpg){: .align-right}
 - Dayton Data Visualization Talks: Gave multi-talks at the Dayton Data Visualization group. Talks were designed to be mini-ted-like talks which focused on data and visualizations.
 
   - [Focusing on the Flow with Dot](https://docs.google.com/presentation/d/1DfbmtCJKQVGnex6X4_0GPhgitkCi0a6fufh2VAqx6sI/edit?usp=sharing)
