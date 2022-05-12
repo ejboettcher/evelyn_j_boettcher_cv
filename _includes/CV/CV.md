@@ -19,9 +19,7 @@ for developing prototypes and sharing her knowledge.
 
 **Data Science:** Processing and analysis large data 
 
-**Teaching:** Developed a two python courses for AFIT with focus on data
-visualization and numerical analysis. Volunteers to promote STEM by
-giving free workshops: Django Girls, GDI python, etc.
+**Teaching:** Developed a two python courses for AFIT: Data Visualization and Numerical Analysis in Python. Volunteers to promote STEM by giving free workshops: Django Girls, GDI python, etc.
 
 **Skills:** Algorithm analysis & development, integrated hardware
 development & hardware prototyping, Image Metrology: Camera calibration
@@ -63,11 +61,7 @@ customers.
         navigation sensor system. Involved designing PCB boards,
         programming micro processors and created a visualization system
         to detect magnetic fields.
-    -   Python Course: developed two different python courses that where
-        customized to AFIT's needs. Students learned a range of skills
-        the collimated with having them read a paper on using SVD's for
-        curve fitting and then code it up so that they can apply that
-        algorithm to real data enabling them to apply an FFT.
+    -   Python Course: Developed two different python courses that where customized to AFIT’s needs.  Students learned a range of skills that lead up to how to read a paper to enable them to code up an algorithm.  Their paper was on how to use an SVD’s in a novel way for curve fitting, which they applied to real data so that an FFT can be taken. 
     -   Analyzed large data to find correlations between Elint and
         tracks.
     -   Processed SWAMI's Blue Heron LWIR HSI data to feed into DARPA's
