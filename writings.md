@@ -18,7 +18,7 @@ Publications are my published academic / industry papers.
 
 A short picture book, (before I knew about inkscape) on how to multiply any two numbers less than 10 on your fingers.  The trick is to use bases other than base 10.
 
-![Ebook: This is Four](https://www.barnesandnoble.com/w/this-is-four-evelyn-boettcher/1103238863;jsessionid=EFEAAB19EBA0C1B26938AE33A)
+[Ebook: This is Four](https://www.barnesandnoble.com/w/this-is-four-evelyn-boettcher/1103238863;jsessionid=EFEAAB19EBA0C1B26938AE33A)
 
 ## One Twenty One
 
