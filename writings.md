@@ -16,8 +16,7 @@ Publications are my published public academic / industry papers.
 
 ## One Twenty One
 
-A multiplication version of 21 / BlackJack.  The game is designed to help the user increase thier ability to do mental math.  All cards are multiplied together BUT you do get one addition
-that you can place anywhere.  
+A multiplication version of 21 / BlackJack.  The game is designed to help the user increase their ability to do mental math.  All cards are multiplied together. There is one addition that you can place anywhere between the cards.  
 
 Game designed and built by Evelyn Boettcher
 
