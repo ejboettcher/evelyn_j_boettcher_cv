@@ -21,7 +21,7 @@ plugins:
   - jekyll-feed
   - jemoji
 
- 
+
 
 # Gem settings
 
@@ -67,16 +67,16 @@ header:
   caption: "Evelyn J. Boettcher"
   image_description: "Green painting banner Image"
 #google_analytics: UA-92956541-1
-css_inline: false 
+css_inline: false
 markdown: kramdown
 highlighter: rouge
 kramdown:
   syntax_highlighter: rouge
   input: GFM
-  auto_ids: true 
+  auto_ids: true
 
-# Favicons 
-favicons: 
+# Favicons
+favicons:
     16: '/assets/img/logos/dayton_gearfilled@16px.png'
     32: '/assets/img/logos/dayton_gearfilled@32px.png'
     64: '/assets/img/logos/dayton_gearfilled@64px.png'
@@ -84,19 +84,6 @@ favicons:
     256: '/assets/img/logos/dayton_gearfilled@256px.png'
     512: '/assets/img/logos/dayton_gearfilled@512px.png'
     1024: '/assets/img/logos/dayton_gearfilled@1024px.png'
-
-# Site navigation
-navigation_header:
-- title: Home
-  url: /
-- title: Tutorials
-  url: /tutorials.html
-- title: Publications
-  url: /publications.html
-- title: Contact
-  url: /contact.html
-- title: Leasure Writings
-  url: /writings.html
 
 
 # Define collections
@@ -106,9 +93,9 @@ analytics:
   provider    : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id : "G-LQ3LRHD7NK"
-    anonymize_ip: false 
-    
-    
+    anonymize_ip: false
+
+
 # Collections
 collections:
   tutorials:
@@ -153,8 +140,8 @@ defaults:
       read_time: true
       share: true
       related: true
-      
-    
+
+
 # Site Footer
 footer:
   links:

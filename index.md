@@ -21,7 +21,7 @@ banner: "/assets/img/banner/green_painting.png"
     <a href="https://www.didactex.com/">DiDacTex</a>)
     Her experience spans over 17 years in the field of electro-optics and remote sensing, with working experience with electronics,
     modeling and algorithm development. She received an MS in Physics from the University of Maryland and a BS in Physics
-    from the University of Florida. She has been head author in respected peer review journals, present findings at
+    from the University of Florida. She has been head author in respected peer review journals, presented findings at
     international and national meetings and received patents for electro-optical devices (# 6,738,536 #; 6,944,372).
     Lastly, she enjoys supporting STEM activities for youth in her personal time.
     <a href="https://www.linkedin.com/in/evelynboettcher/">LinkedIn</a> </big>

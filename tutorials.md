@@ -26,8 +26,8 @@ feature_row:
 
 ## Public Talks and Tutorials
 
-- Dayton Django Girls Workshop: (April 2022): Coached and modified the official tutorial so
-  make it duable in a day.  
+- Dayton Django Girls Workshop: (April 2022): Coached and modified the official tutorial to
+  make it doable in a day.  
 - Gem City Tech: Presented on [Processing Large Data](https://www.youtube.com/watch?v=OJIa7UkRteI) (2021)
 - STEM Outreach: [WPAFB: Educational outreach](https://www.youtube.com/watch?v=9x0lPsfbQdo) (2021)
 - Pub Science: [*Lights, Camera, H-Bar*](https://drive.google.com/file/d/0BzCwhHRUxz7Yc2RnR3otOUZPelk/view?usp=sharing):
