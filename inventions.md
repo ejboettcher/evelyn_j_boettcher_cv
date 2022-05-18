@@ -7,7 +7,7 @@ redirect_from:
   - /inventions/
 ---
 
-I like to create new things ranging from elections, to coding to sewing. 
+I like to create new things ranging from electronics to sewing. 
 
 
 ## Sewing Projects
