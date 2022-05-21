@@ -8,7 +8,7 @@ sitemap:
   priority: 0.9
   changefreq: 'monthly'
   exclude: 'no'
-  include: 'yes''
+  include: 'yes'
 ---
 
 <meta name="twitter:card" content="summary" />
