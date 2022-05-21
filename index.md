@@ -3,6 +3,11 @@ layout: home
 author_profile: true
 title: "Evelyn J Boettcher: CV"
 banner: "/assets/img/banner/green_painting.png"
+sitemap:
+  lastmod: 2022-05-21
+  priority: 0.7
+  changefreq: 'monthly'
+  exclude: 'n0'
 ---
 
 <meta name="twitter:card" content="summary" />

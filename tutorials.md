@@ -40,7 +40,7 @@ feature_row:
   - [Resolve Your Sheep](https://docs.google.com/presentation/d/162ondZKzfNKs0l6v197epxRxYeJz64x9AQoJrN2q1oU/edit?usp=sharing)
 
 - Dayton Regional STEM Center- Dropping the Beat (2013-4)
-Worked with Dayton area teachers and other AFRL colleagues to create a lesson plan on sound called “Dropping the Beat”. This was a multi-month project that ended with the completion of a StEM lesson plan.
+Worked with Dayton area teachers and other AFRL colleagues to create a lesson plan on sound called “Dropping the Beat”. This was a multi-month project that ended with the completion of a STEM lesson plan.
 
 
 
