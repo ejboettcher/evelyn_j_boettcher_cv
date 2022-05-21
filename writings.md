@@ -13,6 +13,7 @@ sitemap:
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'
+  include: 'yes'
 ---
 
 This is a small collection things I wrote for fun.  

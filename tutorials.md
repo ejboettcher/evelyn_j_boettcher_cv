@@ -6,6 +6,12 @@ banner: "/assets/img/banner/green_painting.png"
 redirect_from:
   - /tutorials/
 toc: true
+sitemap:
+  lastmod: 2022-05-21
+  priority: 0.8
+  changefreq: 'monthly'
+  exclude: 'no'
+  include: 'yes'
 
 feature_row:
   - image_path: /tutorials/images/UnicornPoo.png

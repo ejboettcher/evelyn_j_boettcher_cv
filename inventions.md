@@ -6,10 +6,11 @@ banner: "/assets/img/banner/green_painting.png"
 redirect_from:
   - /inventions/
 sitemap:
-  lastmod: 2014-01-23
+  lastmod: 2022-05-21
   priority: 0.7
   changefreq: 'monthly'
-  exclude: 'yes'
+  exclude: 'no'
+  include: 'yes'
 ---
 
 I like to create new things ranging from electronics to sewing. 

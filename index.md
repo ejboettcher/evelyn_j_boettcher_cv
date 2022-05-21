@@ -5,9 +5,10 @@ title: "Evelyn J Boettcher: CV"
 banner: "/assets/img/banner/green_painting.png"
 sitemap:
   lastmod: 2022-05-21
-  priority: 0.7
+  priority: 0.9
   changefreq: 'monthly'
-  exclude: 'n0'
+  exclude: 'no'
+  include: 'yes''
 ---
 
 <meta name="twitter:card" content="summary" />
