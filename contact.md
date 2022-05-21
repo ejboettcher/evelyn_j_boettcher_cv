@@ -4,6 +4,8 @@ title: "Contact us"
 banner: "../assets/img/banner/green_painting.jpg"
 redirect_from:
   - /contact/
+sitemap:
+  exclude: 'yes'
 ---
 
 
