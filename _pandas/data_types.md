@@ -49,8 +49,8 @@ To convert a column of data to the category we set the data type (dtype).
 df['column name'].astype('category')
 ```
 
-![SundaySunday df](assets/img/pandas/SundaySunday.png)
 
+![SundaySunday df](_pandas/images/SundaySunday.png)
 
 
 ### But wait..

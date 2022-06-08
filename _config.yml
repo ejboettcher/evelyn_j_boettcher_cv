@@ -104,6 +104,9 @@ collections:
   writings:
     output: true
     permalink: /writings/:path/
+  pandas:
+    output: true
+    permalink: /_pandas/:path/
 
 
 # Defaults
@@ -145,11 +148,11 @@ defaults:
       path: ""
       type: pandas
     values:
-      layout: single
       author_profile: false
       read_time: false
       share: false
       related: false
+  
 
 
 # Site Footer
