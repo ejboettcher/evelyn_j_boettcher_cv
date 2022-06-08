@@ -140,6 +140,16 @@ defaults:
       read_time: true
       share: true
       related: true
+  # _pandas
+  - scope:
+      path: ""
+      type: pandas
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      share: false
+      related: false
 
 
 # Site Footer
@@ -155,3 +165,25 @@ footer:
 strict_front_matter: true
 liquid:
   error_mode: strict
+
+
+## REVEALJS
+
+# The Reveal theme
+reveal_theme: didactex.css
+# The Reveal transition
+reveal_transition: default
+# Path to the used theme (defaults to the Reveal.js standard theme path)
+reveal_theme_path: ../reveal.js/dist/theme/
+# Additional custom CSS paths
+extra_css: 
+# Custom CSS for highlighting (defaults to reveal.js/lib/css/zenburn.css)
+highlight_style_sheet:
+# Embed Server-side speaker notes?
+reveal_notes_server: false
+# Additional reveal.js options
+reveal_options:
+# Additional reveal.js dependencies
+reveal_dependencies:
+# Reveal.js subdirectory
+reveal_path: ../reveal.js/

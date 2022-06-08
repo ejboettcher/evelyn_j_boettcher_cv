@@ -10,6 +10,8 @@ main:
     url: inventions
   - title: "Writing Fun"
     url: writings
+  - title: "PyOhio Pandas Talk"
+    url: pyohio-pandas
 
 
 

@@ -1,0 +1,39 @@
+<h2 id="how-does-pandas-categories-work">How does Panda’s categories work?</h2>
+
+<p>Pandas category type uses integer values to map to the raw values in a column.<br />
+<br /></p>
+
+<p>This mapping is useful whenever a column contains a limited set of values.</p>
+
+<p>So instead of writing</p>
+<h4 id="dfmydays--sunday-sunday-sunday">df.mydays = [“Sunday”, “Sunday”, “Sunday”]</h4>
+
+<p><br />
+Pandas categories says</p>
+
+<h4 id="sunday--1">Sunday = 1</h4>
+
+<p>and the DataFrame <strong>in memory</strong> is effectively now</p>
+
+<h4 id="dfmydays--1-1-1">df.mydays = [1, 1, 1]</h4>
+
+<hr />
+
+<h2 id="convert-data-to-categories">Convert Data to Categories</h2>
+
+<p>To convert a column of data to the category we set the data type (dtype).</p>
+
+<pre><code class="language-Python">df['column name'].astype('category')
+</code></pre>
+
+<p><img src="./images/SundaySunday.png" alt="SundaySunday df" /></p>
+
+<p><br /></p>
+
+<h3 id="but-wait">But wait..</h3>
+
+<p>Converting to categories is not always helpful.
+<br /></p>
+
+<p>The following examples will show the power and pitfalls of categories</p>
+
