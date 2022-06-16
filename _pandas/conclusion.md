@@ -24,7 +24,7 @@ pylint be my friend
 
 ### Link to Repo
 
-[https://github.com/ejboettcher/evelyn_j_boettcher_cv/tree/main/_pandas)
+[https://github.com/ejboettcher/evelyn_j_boettcher_cv/tree/main/_pandas](https://github.com/ejboettcher/evelyn_j_boettcher_cv/tree/main/_pandas)
 
 ---
 
