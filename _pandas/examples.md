@@ -1,4 +1,4 @@
-## Bid Data: Numbers Only
+## Big Data: Numbers Only
 
 * Script: int_floats_cats.py
 
@@ -26,9 +26,9 @@ INT    0.0764MB
 INT8   0.0096MB
 FLOAT  0.0764MB
 ____________________
-As categories:
-INT  df (plain df, category, SAVINGS)---> 0.0764MB , 0.0098MB , 87 %
-INT8 df (plain df, category, SAVINGS)---> 0.0096MB , 0.0098MB , -2 %
+As categories (plain df, category, SAVINGS):
+INT  df ---> 0.0764MB , 0.0098MB , 87 %
+INT8 df ---> 0.0096MB , 0.0098MB , -2 %
 ___NOTE______NOTE______NOTE______NOTE___
 Categories reduced the size INT df!!
    BUT because of the overhead
@@ -77,9 +77,9 @@ INT    0.0764MB
 INT8   0.0096MB
 FLOAT  0.0764MB
 ____________________
-As categories
-INT  df (plain df, category, SAVINGS)---> 0.0764MB , 0.0307MB , 59 %
-INT8 df (plain df, category, SAVINGS)---> 0.0096MB , 0.0307MB , -219 %
+As categories (plain df, category, SAVINGS)
+INT  df ---> 0.0764MB , 0.0307MB , 59 %
+INT8 df ---> 0.0096MB , 0.0307MB , -219 %
 ___NOTE______NOTE______NOTE______NOTE___
 Categories reduced the size INT df!!
    BUT because of the overhead
@@ -124,9 +124,9 @@ INT    7.6295MB
 INT8   0.9538MB
 FLOAT  7.6295MB
 ____________________
-As categories
-INT  df (plain df, category, SAVINGS)---> 7.6295MB , 0.9539MB , 87 %
-INT8 df (plain df, category, SAVINGS)---> 0.9538MB , 0.9539MB , 0 %
+As categories (plain df, category, SAVINGS)
+INT  df ---> 7.6295MB , 0.9539MB , 87 %
+INT8 df ---> 0.9538MB , 0.9539MB , 0 %
 ___NOTE______NOTE______NOTE______NOTE___
 Categories reduced the size INT df!!
    BUT because of the overhead
@@ -177,8 +177,9 @@ Random String (1 column)  0.5MB
 ____________________
 As categories
 String Columns: HELLO, Locations, Days
-NO CAT to category (plain df, category, SAVINGS)---> 2.67MB , 0.03MB , 98 %
-Cat df to category (plain df, category, SAVINGS)---> 0.0306MB , 0.0306MB , 0 %
+(plain df, category, SAVINGS)
+NO CAT to category ---> 2.67MB , 0.03MB , 98 %
+Cat df to category ---> 0.0306MB , 0.0306MB , 0 %
 ___NOTE______NOTE______NOTE______NOTE___
 
 Now, lets try this with random STRINGS
@@ -195,7 +196,7 @@ Categories only made the DF memory use worse
 ---
 
 ## Large Data: STRING
-### Now, lets make this BIGGGG
+#### Now, lets make this BIGGGG
 
 * 1 million rows
 * 4 chars long in each cell
@@ -204,22 +205,21 @@ Categories only made the DF memory use worse
 python strings_cat.py -n 1_000_000 -r 4
 ```
 
-
 ```Bash
 Building three DF with:
      length of random string in a row 1 - 4
      length of DF  1_000_000
 Top 10 rows of data
-        Days  HELLO      Locations     Days_c HELLO_c    Locations_c Random_String
-1    Tuesday  World    Beavercreek    Tuesday   World    Beavercreek          qbzd
-2  Wednesday  Hello        Oakwood  Wednesday   Hello        Oakwood          wixv
-3   Thursday  World      Fairfield   Thursday   World      Fairfield          vwjs
-4     Friday  Hello  Huber Heights     Friday   Hello  Huber Heights          xiiz
-5   Saturday  World      Riverdale   Saturday   World      Riverdale          owon
-6     Sunday  Hello         Dayton     Sunday   Hello         Dayton          jihl
-7     Monday  World    Beavercreek     Monday   World    Beavercreek          xwon
-8    Tuesday  Hello        Oakwood    Tuesday   Hello        Oakwood          zchj
-9  Wednesday  World      Fairfield  Wednesday   World      Fairfield          hnjt
+     Days  HELLO      Locations     Days_c HELLO_c    Locations_c Random_String
+   Tuesday  World    Beavercreek    Tuesday   World    Beavercreek        qbzd
+ Wednesday  Hello        Oakwood  Wednesday   Hello        Oakwood        wixv 
+  Thursday  World      Fairfield   Thursday   World      Fairfield        vwjs    
+   Friday  Hello  Huber Heights      Friday   Hello  Huber Heights        xiiz
+  Saturday  World      Riverdale   Saturday   World      Riverdale        owon
+    Sunday  Hello         Dayton     Sunday   Hello         Dayton        jihl
+    Monday  World    Beavercreek     Monday   World    Beavercreek        xwon
+   Tuesday  Hello        Oakwood    Tuesday   Hello        Oakwood        zchj
+ Wednesday  World      Fairfield  Wednesday   World      Fairfield        hnjt
 
 Size of the DF we just made
 String NO Categories      267.2MB
@@ -228,8 +228,9 @@ Random String (1 column)  58.17MB
 ____________________
 As categories
 String Columns: HELLO, Locations, Days
-NO CAT to category (plain df, category, SAVINGS)---> 267.2MB , 2.8MB , 98 %
-Cat df to category (plain df, category, SAVINGS)---> 2.8MB , 2.8MB , 0 %
+               (plain df, category, SAVINGS)
+NO CAT to category ---> 267.2MB , 2.8MB , 98 %
+Cat df to category ---> 2.8MB , 2.8MB , 0 %
 ___NOTE______NOTE______NOTE______NOTE___
 
 Now, lets try this with random STRINGS
@@ -306,8 +307,9 @@ Random String (1 column)   600.8MB
 ____________________
 As categories
 String Columns: HELLO, Locations, Days
-NO CAT to category (plain df, category, SAVINGS)---> 2672.8MB , 28.6122MB , 98 %
-Cat df to category (plain df, category, SAVINGS)---> 28.6MB , 28.6123MB , 0 %
+               (plain df, category, SAVINGS)
+NO CAT to category ---> 2672.8MB , 28.6122MB , 98 %
+Cat df to category ---> 28.6MB , 28.6123MB , 0 %
 ___NOTE______NOTE______NOTE______NOTE___
 
 Now, lets try this with random STRINGS
@@ -328,7 +330,7 @@ Categories only made the DF memory use worse
 
 </br>
 
-* Same data as my_awesome.csv, but without the column of random strings
+* Same data as my_awesome.csv, but **without** the column of random strings
 
 #### WOW
 
