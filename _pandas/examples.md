@@ -47,54 +47,6 @@ All Done
 
 ---
 
-## Reduced Frequency of Numbers in DF
-
-Let's try it again, but reduce the frequency (e.g. Numbers repeat less) 
-by increasing the range of number from r = 4 to r = 240.
-
-
-* Script: int_floats_cats.py -r 240
-
-
-```Bash
-Building three DF with:
-     range of numbers 1 - 240
-     length of DF  10_000
-Top 10 rows of data
-   INT  INT8       FLOAT
-1   12   100  235.429842
-2   19    63  225.656414
-3   13    20  173.416396
-4   49   -60   36.324557
-5  147  -100   42.525923
-6   82    63   15.278578
-7   15   121  202.143259
-8   44   -43  225.630105
-9  211   103  179.905616
-
-Size of the DF we just made
-INT    0.0764MB
-INT8   0.0096MB
-FLOAT  0.0764MB
-____________________
-As categories (plain df, category, SAVINGS)
-INT  df ---> 0.0764MB , 0.0307MB , 59 %
-INT8 df ---> 0.0096MB , 0.0307MB , -219 %
-___NOTE______NOTE______NOTE______NOTE___
-Categories reduced the size INT df!!
-   BUT because of the overhead
-   it did not reduce the int8 size
-
-Now, lets try this with random Floats
-Float         --->  0.0764MB
-Float category--->  0.4079MB
-Categories only made the DF memory use worse
-
-
-All Done
-```
-
----
 
 ## Large Data: Numbers cont..
 
