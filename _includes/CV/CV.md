@@ -12,18 +12,14 @@
 ## TECHNICAL SKILLS
 
 
-Wide range of skills that have enabled her to jump in on any aspects of
-a project ranging from data processing and analysis (messy data on low
-performance computers) to sensor system development. She has a passion
-for developing prototypes and sharing her knowledge.
+Wide range of skills that enabled her to jump into any project ranging from data processing and analysis (messy data on low performance computers) to sensor system development.  She has a passion for developing prototypes, learning new skill and sharing her knowledge.
+ 
 
 **Data Science:** Processing and analysis large data 
 
-**Teaching:** Developed a two python courses for AFIT: Data Visualization and Numerical Analysis in Python. Volunteers to promote STEM by giving free workshops: Django Girls, GDI python, etc.
+**Teaching:** Developed two python courses for AFIT: data visualization and numerical analysis.   Volunteers to promote STEM by giving free workshops: GEM City ML/AI, Django Girls etc.
 
-**Skills:** Algorithm analysis & development, integrated hardware
-development & hardware prototyping, Image Metrology: Camera calibration
-& measure extraction, Fiber optics, Fiber Bragg Grating Fabrication
+**Skills:** API development, algorithm analysis & development, integrated hardware development & hardware prototyping,  image metrology: Camera calibration & measure extraction
 
 **Sensors:** Magnetic, Thermal (MWIR, LWIR and passive mmW), SWIR,
 Hyperspectral Imagery (HSI), LiDAR, and Visible Imaging and Video (FMV)
@@ -61,14 +57,14 @@ customers.
         navigation sensor system. Involved designing PCB boards,
         programming micro processors and created a visualization system
         to detect magnetic fields.
-    -   Python Course: Developed two different python courses that where customized to AFIT’s needs.  Students learned a range of skills that lead up to how to read a paper to enable them to code up an algorithm.  Their paper was on how to use an SVD’s in a novel way for curve fitting, which they applied to real data so that an FFT can be taken. 
+    -   Python Course: Developed two different python courses that where customized to AFIT’s needs. Students learned a range of skills that lead up to how to code up an algorithm from a paper. The algorithm was how an SVD’s can be used for curve fitting, which they applied to real data so that an FFT can be taken.
     -   Analyzed large data to find correlations between Elint and
         tracks.
     -   Processed SWAMI's Blue Heron LWIR HSI data to feed into DARPA's
         InSight system
     -   UAS Detection from their LiDAR sensor using IP cameras.
     -   Worked with a ROS (Robot OS) /Gaszebo LiDAR simulator to
-        generate training imagery, train a LiDAR ATR and run the LiDAR
+        generate training imagery, train a LiDAR machine learn algorithm and run the LiDAR
         ATR in a simulated environment.
     -   Developed web applications to to render 3D models for AFRL
         Sensors Target Model Library
