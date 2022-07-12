@@ -32,6 +32,9 @@ feature_row:
 
 ## Public Talks and Tutorials
 
+- [PyOhio Pandas Talks](https://www.evelynboettcher.com/pyohio-pandas#/): July 30, 2022
+- [Gem City Ml/AL Meet-Up](https://github.com/ejboettcher/GemCity-ML-AL_Random): (July 21) ML/AI to test randomness of my random number generator. 
+
 - Dayton Django Girls Workshop: (April 2022): Coached and modified the official tutorial to
   make it doable in a day.  
 - Gem City Tech: Presented on [Processing Large Data](https://www.youtube.com/watch?v=OJIa7UkRteI) (2021)
