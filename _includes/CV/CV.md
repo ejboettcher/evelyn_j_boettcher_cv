@@ -17,7 +17,7 @@ Wide range of skills that enabled her to jump into any project ranging from data
 
 **Data Science:** Processing and analysis large data 
 
-**Teaching:** Developed two python courses for AFIT: data visualization and numerical analysis.   Volunteers to promote STEM by giving free workshops: GEM City ML/AI, Django Girls etc.
+**Teaching:** Developed and taught two python courses for AFIT: data visualization and numerical analysis. Volunteers to promote STEM by giving free workshops: GEM City ML/AI, Django Girls etc.
 
 **Skills:** API development, algorithm analysis & development, integrated hardware development & hardware prototyping,  image metrology: Camera calibration & measure extraction
 
@@ -31,6 +31,9 @@ Julia, MatLab, GIMP & ImageJ for computer vision, machine learning &
 human performance analysis.
 
 **Systems:** Linux, CentOS, Arduino, EPS32, Raspberry Pi.
+
+**Web Development:** [Flask](https://www.onetwentyone.com), Jekyll (this site), 11ty [DiDacTex](https://www.DiDacTex.com) 
+     [One Real Pocket](https://www.onerealpocket.com), Quarto (Built an online python course for AFIT)
 
 ## PROFESSIONAL EXPERIENCE
 
