@@ -15,9 +15,27 @@ sitemap:
 
 I like to create new things ranging from electronics to sewing. 
 
+## Intermittent Fan Controller
+
+![controllers and it's signals](assets/img/fan_signal.webp){: .align-right}
+I simply cannot sleep with a fan constantly blowing on me.
+My husband can not sleep without a fan on him. 
+
+
+Initially, 
+I thought we'd never be able to find a happy medium, 
+since ceiling fans are designed to be either on or off all night.
+I realized that if I could find a way to turn our fan off after 
+five minutes and then back on after another 20 minutes, we’d both be able to sleep well. 
+So, I built an adjustable, 
+intermittent fan controller with roughly $30 worth of electronics and [two Python scripts](https://github.com/ejboettcher/intermittent_fan_controller).
+
+
 ## One Twenty One
 
-A multiplication version of 21 / BlackJack.  The game is designed to help the user increase their ability to do mental math.  All cards are multiplied together. There is one addition that you can place anywhere between the cards.  ![121 Social Image](assets/img/121_social_sm.png){: .align-right}
+A multiplication version of 21 / BlackJack.  The game is designed to help the user increase their ability to do mental math. 
+All cards are multiplied together. There is one addition that you can place anywhere between the cards.  
+![121 Social Image](assets/img/121_social_sm.png){: .align-right}
 
 Game invented, designed and built by Evelyn J. Boettcher
 

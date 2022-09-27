@@ -2,6 +2,8 @@
 
 ## PUBLICATIONS AS HEAD AUTHOR
 
+Intermittent Fan Controller using a Raspberry Pi and Python, [Anaconda Blog Sept. 2022](https://www.anaconda.com/blog/create-an-intermittent-fan-controller-with-python)
+
 Modeling Passive Millimeter Wave Imaging Sensor Performance for
 Discriminating Small Watercraft, Evelyn J. Boettcher, CDR Keith Krapels,
 CDR Ron Driggers, et.al, Applied Optics (2010)
