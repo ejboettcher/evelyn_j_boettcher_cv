@@ -37,8 +37,8 @@ sitemap:
 <section id="index-work" style="padding-bottom:15px">
 <div style="width:100%">
   <div class="btn-group" style="width:100%">
-        <button onclick="location.href='{{ site.baseurl }}/tutorials';" style="width:30%">Explore tutorials</button>
-        <button onclick="location.href='{{ site.baseurl }}/publications';" style="width:30%">Publications</button>
+        <button onclick="location.href='{{ site.baseurl }}/tutorials';" style="width:30%">Tutorials</button>
+        <button onclick="location.href='{{ site.baseurl }}/publications';" style="width:30%">Papers</button>
         <button onclick="location.href='{{ site.baseurl }}/inventions';" style=" width:31%">Inventions</button>
   </div>
 </div>
