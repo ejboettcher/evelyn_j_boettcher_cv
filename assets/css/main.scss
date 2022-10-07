@@ -25,11 +25,13 @@ body {
 }
 
 button {
-    border:1px solid #5f8724; border-radius:19px;
+    border:1px solid #5f8724; border-radius:15px;
     box-shadow: 4px 4px 4px 0px rgba(0,0,0,0.1) 
     inset;margin: auto;
+    margin-left:4px;
+    margin-right:1px;
     background-color: #6d9433;
-    width:100%;
+    width:98%;
     height:3em;
 }
   
