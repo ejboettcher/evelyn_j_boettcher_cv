@@ -6,7 +6,7 @@
 * Master of Science: Physics 2000
   University of Maryland, College Park, MD
 
-* Bachelor of Science: Physics Highest Honors 1997
+* Bachelor of Science: Physics, Highest Honors 1997
   University of Florida, Gainesville, FL
 
 ## TECHNICAL SKILLS
@@ -32,8 +32,8 @@ human performance analysis.
 
 **Systems:** Linux, CentOS, Arduino, EPS32, Raspberry Pi.
 
-**Web Development:** [Flask](https://www.onetwentyone.com), Jekyll (this site), 11ty [DiDacTex](https://www.DiDacTex.com) 
-     [One Real Pocket](https://www.onerealpocket.com), Quarto (Built an online python course for AFIT)
+**Web Development:** [Flask](https://www.onetwentyone.com), Jekyll (this site), 11ty ([DiDacTex](https://www.DiDacTex.com) 
+     [One Real Pocket](https://www.onerealpocket.com)), Quarto (built an online python course for AFIT)
 
 ## PROFESSIONAL EXPERIENCE
 
