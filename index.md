@@ -23,9 +23,8 @@ sitemap:
 <br>
 <div class="content-new-info">
 <div class="square">
-    <big>Mrs. Evelyn J. Boettcher founded and leads DiDacTex, LLC (a small woman owned business
-    <a href="https://www.didactex.com/">DiDacTex</a>). 
-    She also founded and runs the <a href="https://www.meetup.com/gem-city-tech/events/286718391/">Gem City Tech ML/AI meetup</a>. 
+    <big>Mrs. Evelyn J. Boettcher is a physicist with a passion for STEM.  She has founded her own business: DiDacTex, LLC (a small woman owned business
+    <a href="https://www.didactex.com/">DiDacTex</a>) and currently runs the <a href="https://www.meetup.com/gem-city-tech/events/286718391/">Gem City Tech ML/AI meetup</a>. 
     Her experience spans over two decades in the field of electro-optics and remote sensing, with working experience with electronics,
     modeling and algorithm development. She received an MS in Physics from the University of Maryland and a BS in Physics
     from the University of Florida. She has been head author in respected peer review journals, presented findings at

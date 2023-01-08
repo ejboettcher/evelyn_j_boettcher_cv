@@ -11,13 +11,14 @@
 
 ## TECHNICAL SKILLS
 
-
-Wide range of skills that enabled her to jump into any project ranging from data processing and analysis (messy data on low performance computers) to sensor system development.  She has a passion for developing prototypes, learning new skill and sharing her knowledge.
+Wide range of skills that enabled her to jump into any project ranging sensor system development to algorithm development.  
+She has a passion for developing prototypes, learning new skill and sharing her knowledge.
  
 
 **Data Science:** Processing and analysis large data 
 
-**Teaching:** Developed and taught two python courses for AFIT: data visualization and numerical analysis. Volunteers to promote STEM by giving free workshops: GEM City ML/AI, Django Girls etc.
+**Teaching:** Developed and taught two python courses for AFIT: Data Visualization and Numerical Analysis. 
+Volunteers to promote STEM: GEM City ML/AI, Django Girls etc.
 
 **Skills:** API development, algorithm analysis & development, integrated hardware development & hardware prototyping,  image metrology: Camera calibration & measure extraction
 
@@ -32,10 +33,19 @@ human performance analysis.
 
 **Systems:** Linux, CentOS, Arduino, EPS32, Raspberry Pi.
 
-**Web Development:** [Flask](https://www.onetwentyone.com), Jekyll (this site), 11ty ([DiDacTex](https://www.DiDacTex.com) 
-     [One Real Pocket](https://www.onerealpocket.com)), Quarto (built an online python course for AFIT)
+**Web Development:** [Flask](https://www.onetwentyone.com), [Jekyll](www.evelynboettcher.com), 11ty ([DiDacTex](https://www.DiDacTex.com) 
+     [One Real Pocket](https://www.onerealpocket.com)), Quarto (AFIT course: Online Book and lectures)
 
 ## PROFESSIONAL EXPERIENCE
+
+
+**BlueHalo:** Dayton, OH Oct 2022 - Present
+
+Senior Principal Scientist
+
+* Business Development
+* ML/AI development to identify tracks in radar returns.
+
 
 **DiDacTex, LLC:** Dayton, OH May 2014 – Present
 
@@ -45,43 +55,42 @@ Founder / Principal
 Created a women owned small business that focuses on extracting
 information within images. Boettcher runs the day to day operations of
 DiDacTex, Research and Development and performed direct support to
-customers.
+customers.  Currently, DiDacTex is for my educational outreach.
 
 -   Business Development:
 
-    As a small business Evelyn Boettcher wore many hats:
-
-    -   Proposals writing including team proposals work
+    -   Proposals 
     -   Negotiations, Human Resource, Accounts Payable etc.
 
--   Direct Works:
+-   Technical Work:
 
-    -   Magnetic Navigation: Designed, built and tested a magnetic
+    - Magnetic Navigation: Designed, built and tested a magnetic
         navigation sensor system. Involved designing PCB boards,
-        programming micro processors and created a visualization system
+        programming microprocessors and created a visualization system
         to detect magnetic fields.
-    -   Python Course: Developed two different python courses that where customized to AFIT’s needs. Students learned a range of skills that lead up to how to code up an algorithm from a paper. The algorithm was how an SVD’s can be used for curve fitting, which they applied to real data so that an FFT can be taken.
-    -   Analyzed large data to find correlations between Elint and
+    - Python Course: Developed two different python courses that where customized to AFIT’s needs. Students learned a range of skills that lead up to how to code up an algorithm from a paper. The algorithm was how an SVD’s can be used for curve fitting, which they applied to real data so that an FFT can be taken.
+    - Analyzed large data to find correlations between Elint and
         tracks.
-    -   Processed SWAMI's Blue Heron LWIR HSI data to feed into DARPA's
-        InSight system
-    -   UAS Detection from their LiDAR sensor using IP cameras.
-    -   Worked with a ROS (Robot OS) /Gaszebo LiDAR simulator to
-        generate training imagery, train a LiDAR machine learn algorithm and run the LiDAR
-        ATR in a simulated environment.
-    -   Developed web applications to to render 3D models for AFRL
-        Sensors Target Model Library
-    -   Developed and published android applications for DiDacTex's
-        internal efforts
-    -   Maintainer and Feature Developer to AFRL Visual Annotator (AVA)
-        truthing tool
-    -   Provided SME for a wide range of fields: Python, EO and Thermal
+    - Provided SME for a wide range of fields: Python, EO and Thermal
         Sensing, Git and AWS for AFRL
-    -   Works closely with AFRL customer to develop and standardize a
-        new research development
-    -   Technical lead for a new research areas withing AFRL which
+    - Technical lead for a new research areas withing AFRL which
         successfully, integrated automatic target recognition software
         from a variety of languages and modalities
+    - Processed SWAMI's Blue Heron LWIR HSI data to feed into DARPA's
+        InSight system
+    - UAS Detection from their LiDAR sensor using IP cameras.
+    - Worked with a ROS (Robot OS) /Gaszebo LiDAR simulator to
+        generate training imagery, train a LiDAR machine learn algorithm and run the LiDAR
+        ATR in a simulated environment.
+    - Developed web applications to render 3D models for AFRL
+        Sensors Target Model Library
+    - Developed and published android applications for DiDacTex's
+        internal efforts
+    - Maintainer and Feature Developer to AFRL Visual Annotator (AVA)
+        truthing tool
+    - Works closely with AFRL customer to develop and standardize a
+        new research development
+
 
 **InfoSciTex a DCS Corporation:** Dayton, OH Sept. 2012- April 2015
 

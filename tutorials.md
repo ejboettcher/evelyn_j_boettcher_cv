@@ -32,9 +32,11 @@ feature_row:
 
 ## Public Talks and Tutorials
 
-- [Gem City ML/AI Models, Datasets and Transfer learning](https://github.com/ejboettcher/GemCity-ML-AI-modelsTrans)
+- [Power of A/B Testing, Beyond User Feedback](https://ejboettcher.github.io/AB-testing/talk.html#/title-slide): Taste of IT Conference, Nov. 2022
 
-- [PyOhio Pandas Talks](https://www.evelynboettcher.com/pyohio-pandas#/): July 30, 
+- [Gem City ML/AI Models, Datasets and Transfer learning](https://github.com/ejboettcher/GemCity-ML-AI-modelsTrans): Sept. 2022
+
+- [PyOhio Pandas Talks](https://www.evelynboettcher.com/pyohio-pandas#/): July 30,2022
 
 ![ML/AI Talk](assets/img/tutorial/gemcity_ml_ai.jpeg){: .align-right}
 
