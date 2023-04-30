@@ -32,6 +32,12 @@ feature_row:
 
 ## Public Talks and Tutorials
 
+- [Gem City Tech and Wright Brother Institute (WBI) ML Collider](https://www.eventbrite.com/e/future-of-the-daf-machine-learning-and-artificial-intelligence-collider-tickets-627177774607): May 17th 2023
+
+- [STEM Magnetic Mapping](https://didactexgit.github.io/do_stem_mag_map/talk.html#/title-slide): May 5th 2023
+
+- [STEM Light](https://ejboettcher.github.io/stem_light_demo/talk.html#/title-slide): May 1st 2023
+
 - [Power of A/B Testing, Beyond User Feedback](https://ejboettcher.github.io/AB-testing/talk.html#/title-slide): Taste of IT Conference, Nov. 2022
 
 - [Gem City ML/AI Models, Datasets and Transfer learning](https://github.com/ejboettcher/GemCity-ML-AI-modelsTrans): Sept. 2022
