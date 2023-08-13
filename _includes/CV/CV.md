@@ -15,12 +15,14 @@ Wide range of skills that enabled her to jump into any project ranging sensor sy
 She has a passion for developing prototypes, learning new skill and sharing her knowledge.
  
 
-**Data Science:** Processing and analysis large data 
+**Data Science:** Processing and analysis of large noisy data 
+
+**Machine Learning (ML):** Tensorflow, python, scikit learn etc.  Currently, runs a machine learning group called [Gem City ML](www.gemcityml.com)
 
 **Teaching:** Developed and taught two python courses for AFIT: Data Visualization and Numerical Analysis. 
 Volunteers to promote STEM: GEM City ML/AI, Django Girls etc.
 
-**Skills:** API development, algorithm analysis & development, integrated hardware development & hardware prototyping,  image metrology: Camera calibration & measure extraction
+**Skills:** API development, algorithm analysis & development, integrated hardware development & hardware prototyping, image metrology: Camera calibration & measure extraction
 
 **Sensors:** Magnetic, Thermal (MWIR, LWIR and passive mmW), SWIR,
 Hyperspectral Imagery (HSI), LiDAR, and Visible Imaging and Video (FMV)
@@ -44,7 +46,9 @@ human performance analysis.
 Senior Principal Scientist
 
 * Business Development
-* ML/AI development to identify tracks in radar returns.
+* ML/AI development to identify and stitch tracks in radar returns.  
+* Reporting automation: Automating event reporting.  Reducing time to report generation from days to seconds.
+
 
 
 **DiDacTex, LLC:** Dayton, OH May 2014 – Present
@@ -57,18 +61,14 @@ information within images. Boettcher runs the day to day operations of
 DiDacTex, Research and Development and performed direct support to
 customers.  Currently, DiDacTex is for my educational outreach.
 
--   Business Development:
-
-    -   Proposals 
-    -   Negotiations, Human Resource, Accounts Payable etc.
 
 -   Technical Work:
 
-    - Magnetic Navigation: Designed, built and tested a magnetic
-        navigation sensor system. Involved designing PCB boards,
+    - Magnetic Navigation: Designed, built and tested AFIT's magnetic
+        navigation sensor system. In less than a year it went from prototype to being flown.  Involved designing PCB boards,
         programming microprocessors and created a visualization system
         to detect magnetic fields.
-    - Python Course: Developed two different python courses that where customized to AFIT’s needs. Students learned a range of skills that lead up to how to code up an algorithm from a paper. The algorithm was how an SVD’s can be used for curve fitting, which they applied to real data so that an FFT can be taken.
+    - Python Course: Developed and taught two different python courses that where customized to AFIT’s needs. Students learned a range of skills that lead up to how to code up an algorithm from a paper. The algorithm was how an SVD’s can be used for curve fitting, which they applied to real data so that an FFT can be taken.
     - Analyzed large data to find correlations between Elint and
         tracks.
     - Provided SME for a wide range of fields: Python, EO and Thermal

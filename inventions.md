@@ -6,7 +6,7 @@ banner: "/assets/img/banner/green_painting.png"
 redirect_from:
   - /inventions/
 sitemap:
-  lastmod: 2022-05-21
+  lastmod: 2023-05-21
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'

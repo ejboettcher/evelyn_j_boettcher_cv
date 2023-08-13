@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /publications/
 sitemap:
-  lastmod: 2022-05-21
+  lastmod: 2023-08-13
   priority: 0.7
   changefreq: 'monthly'
   exclude: 'no'

@@ -41,6 +41,8 @@ International Conference on Low Temp. Phys., Vol. 46 Suppl. S5 p. 2605
 
 ## PUBLICATIONS
 
+Operationalizing MagNav, Aaron Niesen, Jeremy Gray, Joseph Curro Evelyn J. Boettcher and Robert Leishman, ION JNC (2021).
+
 Standoff Human Identification Using Body Shape
 S Matzner, E Boettcher, D Lochtefeld, T Webb, A Heredia-Langner, ...
 2015 IEEE HST Symposium (2015)

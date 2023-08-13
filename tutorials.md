@@ -7,7 +7,7 @@ redirect_from:
   - /tutorials/
 toc: true
 sitemap:
-  lastmod: 2022-05-21
+  lastmod: 2023-05-21
   priority: 0.8
   changefreq: 'monthly'
   exclude: 'no'
@@ -32,7 +32,9 @@ feature_row:
 
 ## Public Talks and Tutorials
 
-- [Gem City Tech and Wright Brother Institute (WBI) ML Collider](https://www.eventbrite.com/e/future-of-the-daf-machine-learning-and-artificial-intelligence-collider-tickets-627177774607): May 17th 2023
+- [The University of Texas National Semiconductor Initatives and Opps](https://www.eventbrite.com/e/the-univ-of-texas-at-dallas-national-semiconductor-initiatives-and-opps-tickets-672211291067)  July 27, 2023
+
+- [Gem City Tech and Wright Brother Institute (WBI) ML Collider](https://www.eventbrite.com/e/future-of-the-daf-machine-learning-and-artificial-intelligence-collider-tickets-627177774607): May 17th 2023 ![WBI](assets/img/tutorial/wbi_2023.jpg){: .align-right}
 
 - [STEM Magnetic Mapping](https://didactexgit.github.io/do_stem_mag_map/talk.html#/title-slide): May 5th 2023
 
