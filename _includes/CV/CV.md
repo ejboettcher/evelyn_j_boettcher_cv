@@ -39,8 +39,7 @@ human performance analysis.
 ## PROFESSIONAL EXPERIENCE
 
 
-**BlueHalo:** Dayton, OH Oct 2022 - Present
-
+**BlueHalo:** Dayton, OH (Oct 2022 - Present)
 Senior Principal Scientist
 
 * Automated Line of Sight (LOS) analysts' reports of radar detection from multiple radar system to make unique tracks; tested on production data
@@ -48,8 +47,7 @@ Senior Principal Scientist
 *  Implemented an automatic reports generator to produce both HTML and pdf reports reducing analyst workload. Their first implement micro service.
 
 
-**DiDacTex, LLC:** Dayton, OH May 2014 – Present
-
+**DiDacTex, LLC:** Dayton, OH (May 2014 – Present)
 Founder / Principal
 
 Created a women owned small business that focuses on extracting
@@ -88,8 +86,7 @@ customers.  Currently develops STEM activities and run GemCity ML under DiDacTex
         new research development
 
 
-**InfoSciTex a DCS Corporation:** Dayton, OH Sept. 2012- April 2015
-
+**InfoSciTex a DCS Corporation:** Dayton, OH (Sept. 2012- April 2015)
 Physicist / Technical Leader
 
 Technical leader for the Automatic Human Threat Detection group for
@@ -113,8 +110,7 @@ any meta data.
 -   Wrote white papers for BAAs
 -   Published and presented research
 
-**Jacobs:** Dayton, OH Sept. 2011-Sept. 2012
-
+**Jacobs:** Dayton, OH (Sept. 2011-Sept. 2012)
 Physicist
 
 Researcher working on a multifaceted challenge problem for AFRL at
@@ -128,8 +124,7 @@ experiments to further development.
 -   Measured performance of HSI detection algorithms
 
 **DCS Corporation:** Alexandria, VA 
-
-Electrical Engineer III OCT. 2006- April 2010
+Electrical Engineer III OCT. (2006- April 2010)
 
 Researcher to Night Vision & Electronic Sensors Directorate, (NVESD)
 providing engineering support to the Modeling and Simulation Division in
@@ -159,13 +154,13 @@ LWIR, MWIR, SWIR, mmW, and visible.
 
 **Accomplishments:**
 
-\* Published two journal papers, one as head author.
+* Published two journal papers, one as head author.
+* Averaged more than three publications per 
 
-\* Averaged more than three publications per year
+
 
 **C-COR (Optinel Systems, Inc.)** Elkridge, MD
-
-Electico-Optical Engineer Aug. 2000-March 2003
+Electico-Optical Engineer (Aug. 2000-March 2003)
 
 -   Assumed full responsibility for analyzing  competitors,
     writing technical specification, and procuring of equipment
