@@ -11,29 +11,27 @@
 
 ## TECHNICAL SKILLS
 
-Wide range of skills that enabled her to jump into any project ranging sensor system development to algorithm development.  
-She has a passion for developing prototypes, learning new skill and sharing her knowledge.
+Wide range of skills that enables her to jump into any project ranging from data processing and analysis (messy data) to sensor system development. She has a passion for developing prototypes, learning new skill and sharing her knowledge. She currently leads a Machine Learning Community group and supports a NASIC mission.
  
 
-**Data Science:** Processing and analysis of large noisy data 
+**Data Science:** Processing and analysis of large noisy data to ETL to feed into algorithms. Developed a variety of ML algorithms to extract target features and make prediction.
 
 **Machine Learning (ML):** Tensorflow, python, scikit learn etc.  Currently, runs a machine learning group called [Gem City ML](www.gemcityml.com)
 
 **Teaching:** Developed and taught two python courses for AFIT: Data Visualization and Numerical Analysis. 
 Volunteers to promote STEM: GEM City ML/AI, Django Girls etc.
 
-**Skills:** API development, algorithm analysis & development, integrated hardware development & hardware prototyping, image metrology: Camera calibration & measure extraction
+**Skills:** TensorFlow, API development, algorithm analysis & development, integrated hardware development & hardware prototyping, image metrology: Camera calibration & measure extraction
 
 **Sensors:** Magnetic, Thermal (MWIR, LWIR and passive mmW), SWIR,
 Hyperspectral Imagery (HSI), LiDAR, and Visible Imaging and Video (FMV)
 
 **Programming:** Python, JavaScript / HTML, bash, Dot & C
 
-**Images & videos**: Processing and analysis with Python, JavaScript,
-Julia, MatLab, GIMP & ImageJ for computer vision, machine learning &
+**Images & videos**: Processing and analysis with Python, JavaScript,  GIMP & ImageJ for computer vision, machine learning &
 human performance analysis.
 
-**Systems:** Linux, CentOS, Arduino, EPS32, Raspberry Pi.
+**Systems:** Linux, CentOS, Arduino, EPS32, Raspberry Pi, Docker
 
 **Web Development:** [Flask](https://www.onetwentyone.com), [Jekyll](www.evelynboettcher.com), 11ty ([DiDacTex](https://www.DiDacTex.com) 
      [One Real Pocket](https://www.onerealpocket.com)), Quarto (AFIT course: Online Book and lectures)
@@ -45,34 +43,32 @@ human performance analysis.
 
 Senior Principal Scientist
 
-* Business Development
-* ML/AI development to identify and stitch tracks in radar returns.  
-* Reporting automation: Automating event reporting.  Reducing time to report generation from days to seconds.
-
+* Automated Line of Sight (LOS) analysts' reports of radar detection from multiple radar system to make unique tracks; tested on production data
+* Implemented multiple algorithms from Neural Networks (NN), clustering, linear regression to clean and filter raw sensor data to stitch stitch and characterize tracks 
+*  Implemented an automatic reports generator to produce both HTML and pdf reports reducing analyst workload. Their first implement micro service.
 
 
 **DiDacTex, LLC:** Dayton, OH May 2014 – Present
-
 
 Founder / Principal
 
 Created a women owned small business that focuses on extracting
 information within images. Boettcher runs the day to day operations of
 DiDacTex, Research and Development and performed direct support to
-customers.  Currently, DiDacTex is for my educational outreach.
-
+customers.  Currently develops STEM activities and run GemCity ML under DiDacTex
 
 -   Technical Work:
+     
+    - Built AFIT’s ANT Center’s first MagInABox (mag nav system) and tested on C17
 
     - Magnetic Navigation: Designed, built and tested AFIT's magnetic
         navigation sensor system. In less than a year it went from prototype to being flown.  Involved designing PCB boards,
         programming microprocessors and created a visualization system
         to detect magnetic fields.
-    - Python Course: Developed and taught two different python courses that where customized to AFIT’s needs. Students learned a range of skills that lead up to how to code up an algorithm from a paper. The algorithm was how an SVD’s can be used for curve fitting, which they applied to real data so that an FFT can be taken.
+    - Python Course: Developed and taught two different python courses that where customized to AFIT’s needs. Students learned a range of skills that lead up to how to code up an algorithm from a paper. 
+    - Provided SME for a wide range of fields: Python, EO and Thermal Sensing, Git and AWS for AFRL Sensor Directorate
     - Analyzed large data to find correlations between Elint and
         tracks.
-    - Provided SME for a wide range of fields: Python, EO and Thermal
-        Sensing, Git and AWS for AFRL
     - Technical lead for a new research areas withing AFRL which
         successfully, integrated automatic target recognition software
         from a variety of languages and modalities
@@ -187,14 +183,12 @@ Electico-Optical Engineer Aug. 2000-March 2003
 
 **Accomplishments:**
 
-\* Designed a Magnetic Sensor System
-\* Successfully acquired two patents, \# 6,738,536 and \#6,944,372 as
+* Designed a Magnetic Sensor System
+* Successfully acquired two patents, \# 6,738,536 and \#6,944,372 as
 lead investigator
-
-\* Pioneer employee at Optinel Systems, Inc; one of the first four
+* Pioneer employee at Optinel Systems, Inc; one of the first four
 employees
-
-\* Produced and shipped first Fiber Gratings to customers
+* Produced and shipped first Fiber Gratings to customers
 
 
 {% include CV/publications.md %}
