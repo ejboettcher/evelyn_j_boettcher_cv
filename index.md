@@ -23,14 +23,8 @@ sitemap:
 <br>
 <div class="content-new-info">
 <div class="square">
-    <big>Mrs. Evelyn J. Boettcher is a physicist with a passion for STEM.  She has founded her own business: DiDacTex, LLC (a small woman owned business
-    <a href="https://www.didactex.com/">DiDacTex</a>) and currently runs the <a href="https://www.meetup.com/gem-city-tech/events/286718391/">Gem City Tech ML/AI meetup</a>.  She is also a <a href="https://developers.google.com/womentechmakers/ambassadors"> Women Techmakers Ambassador</a>.
-    Her experience spans over two decades in the field of electro-optics and remote sensing, with working experience with electronics,
-    modeling and algorithm development. She received an MS in Physics from the University of Maryland and a BS in Physics
-    from the University of Florida. She has been head author in respected peer review journals, presented findings at
-    international and national meetings and received patents for electro-optical devices (# 6,738,536 #; 6,944,372).
-    Lastly, she enjoys supporting STEM activities for youth in her personal time.
-    <a href="https://www.linkedin.com/in/evelynboettcher/">LinkedIn</a> </big>
+    <big>Evelyn Boettcher is a highly experienced and knowledgeable physicist and founder with a wide range of technical skills. She has a Master of Science in Physics from the University of Maryland and a Bachelor of Science in Physics with Highest Honors from the University of Florida. Her technical skills include data science, machine learning, teaching, programming, sensors, images and videos, systems, and modeling. She has published  journal papers and has demonstrated a passion for continuous learning, consistently adapting to new challenges and expanding her skillset to meet evolving industry demands. She currently leads a <a href="https://www.meetup.com/gem-city-tech/events/286718391/">Machine Learning Community group </a> and is a  <a href="https://developers.google.com/womentechmakers/ambassadors"> Women Techmakers Ambassador</a>.  She has also received patents for electro-optical devices (# 6,738,536 #; 6,944,372).  Lastly, she enjoys supporting STEM activities for youth and is building a MagNav STEM IoT activity.
+     
 </div>
 </div>
 <section id="index-work" style="padding-bottom:15px">
