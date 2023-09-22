@@ -12,7 +12,7 @@
 
 - **Machine Learning and Data Science:**
   - Processing and analysis of large data
-  - ETL for algorithm input
+  - ETL: Sensor data to algorithm to decision
   - Developed ML algorithms for target feature extraction and prediction
 - **Teaching:**
   - Developed customized Python courses
