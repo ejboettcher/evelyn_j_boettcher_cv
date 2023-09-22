@@ -33,7 +33,7 @@
 - **Systems:**
   - Linux, CentOS, Arduino, EPS32, Raspberry Pi, Docker
 - **Community Engagement:**
-  - GemCityML: Leader and Founder of a monthly group
+  - GemCityML: Founded and leads a monthly AI/ML group
   - GemCity TECH: Board Member
   - Google Women Tech Maker Ambassador
 
