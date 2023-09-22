@@ -18,19 +18,25 @@
   - Developed customized Python courses
   - Promoted STEM through free workshops
 - **Skills:**
-  - Tensorflow, API development, algorithm analysis & development
-  - SQL, integrated hardware development & hardware prototyping
+  - Integrated hardware development & hardware prototyping
+  - API development, algorithm analysis & development 
   - Image metrology: Camera calibration & measure extraction
+  - Version Control: Git, GitHub, GitLab
 - **Sensors:**
   - Magnetic, Thermal (MWIR, LWIR, passive mmW), SWIR
   - Hyperspectral Imagery (HSI), LiDAR, Visible Imaging and Video (FMV)
 - **Programming:**
-  - Python, JavaScript/HTML, bash, C/C++
-  - Image and video processing with Python, JavaScript, MatLab, GIMP, ImageJ
+  - Software: Python, JavaScript/HTML, bash, C, Tensorflow, 
+  - Image and Video Processing: Python, JavaScript, MatLab, GIMP, ImageJ
+  - Design: OpenScad, InkScape, Eagle
+  - Web Development: Quarto, Flask, 11ty, Jekyll
 - **Systems:**
   - Linux, CentOS, Arduino, EPS32, Raspberry Pi, Docker
-- **Web Development:**
-  - Quarto, Flask, 11ty, Jekyll
+- **Community Engagement:**
+  - GemCityML: Leader and Founder of a monthly group
+  - GemCity TECH: Board Member
+  - Google Women Tech Maker Ambassador
+
 
 ## PROFESSIONAL EXPERIENCE
 
@@ -48,7 +54,7 @@
 
 - Provided subject matter expertise in Python, Magnetic sensors, EO and Thermal Sensing, Git, and AWS for AFRL and AFIT
 - Developed STEM activities and runs GemCity ML under DiDacTex
-- Designed, built, and tested a magnetic navigation sensor system
+- Designed, built, and tested a magnetic navigation sensor system: MagInBox and MagInTube
 - Developed Python courses customized to AFIT’s needs
 
 ### InfoSciTex (a DCS Corporation) - Sept. 2012- April 2015
