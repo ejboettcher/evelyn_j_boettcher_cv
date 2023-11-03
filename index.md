@@ -28,7 +28,7 @@ from data processing and analysis (messy data) to sensor system
 development. Strong passion for developing prototypes, learning new
 skill and sharing her knowledge. Currently leads a Machine Learning
 Community group and supports a IC mission to integrate ML/AI to automate workflows.    
-
+<br>
 Over 20 years of experience supporting USAF, US Army, DoD/IC,
 Universities, and Industries. 14 years of experience with Passive Sensor Imagery and 15 years of
 experience with algorithm development, implementation and integration.   
