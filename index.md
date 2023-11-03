@@ -19,8 +19,6 @@ sitemap:
 <meta property="og:description" content="Evelyn J. Boettcher resume" />
 <meta property="og:image" content="https://ejboettcher.github.io/evelyn_j_boettcher_cv/assets/img/logos/dayton_gearfilled_bike.png" />
 
-
-<br>
 <div class="content-new-info">
 <div class="square">
     <big>Wide range of skills that enabling quick mastery of any project ranging
@@ -29,6 +27,7 @@ development. Strong passion for developing prototypes, learning new
 skill and sharing her knowledge. Currently leads a Machine Learning
 Community group and supports a IC mission to integrate ML/AI to automate workflows.    
 <br>
+
 Over 20 years of experience supporting USAF, US Army, DoD/IC,
 Universities, and Industries. 14 years of experience with Passive Sensor Imagery and 15 years of
 experience with algorithm development, implementation and integration.   
