@@ -23,12 +23,15 @@ sitemap:
 <br>
 <div class="content-new-info">
 <div class="square">
-    <big>Evelyn Boettcher is a highly experienced, knowledgeable physicist and founder with a 
-wide range of technical skills. She has a Master of Science in Physics from the University of Maryland 
-and a Bachelor of Science in Physics with Highest Honors from the University of Florida. Her technical 
-skills include data science, machine learning, teaching, programming, sensors, images and videos, systems, 
-and modeling. She has published  journal papers and has demonstrated a passion for continuous learning, 
-consistently adapting to new challenges and expanding her skillset to meet evolving industry demands.
+    <big>Wide range of skills that enabling quick mastery of any project ranging
+from data processing and analysis (messy data) to sensor system
+development. Strong passion for developing prototypes, learning new
+skill and sharing her knowledge. Currently leads a Machine Learning
+Community group and supports a IC mission to integrate ML/AI to automate workflows.    
+
+Over 20 years of experience supporting USAF, US Army, DoD/IC,
+Universities, and Industries. 14 years of experience with Passive Sensor Imagery and 15 years of
+experience with algorithm development, implementation and integration.   
 She currently leads a <a href="https://www.meetup.com/gem-city-tech/events/286718391/">Machine Learning 
 Community group </a> and is a  <a href="https://developers.google.com/womentechmakers/ambassadors">
 Women Techmakers Ambassador</a>.  She has also received patents for electro-optical devices

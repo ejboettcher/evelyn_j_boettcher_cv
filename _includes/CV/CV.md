@@ -44,18 +44,51 @@
 
 **Senior Principal Scientist**
 
-- Automated Line of Sight (LOS) analysts' reports of radar detection
-- Implemented multiple algorithms, including Neural Networks, clustering, and linear regression
-- Developed an automatic reports generator to reduce analyst workload
+-   Automated Line of Sight (LOS) analysts\' report creation. Developed
+    application and tested on production system via a micro service.
+    First implemented micro service within group.
+-   Automation involved implementation of multiple algorithms from
+    Neural Networks (NN), clustering, linear regression to clean and
+    filter raw sensor data to retrack, stitch and characterize/identify
+    track and track objects.
+-   Collaborated with cross-functional teams to develop technical
+    content for business proposals for sensor technology projects.
+-   Authored comprehensive white papers detailing the findings and
+    implications of AI for automation and sensor detection.
 
 ### DiDacTex, LLC - May 2014 – Present
 
 **Founder / Principal**
 
-- Provided subject matter expertise in Python, Magnetic sensors, EO and Thermal Sensing, Git, and AWS for AFRL and AFIT
-- Developed STEM activities and runs GemCity ML under DiDacTex
-- Designed, built, and tested a magnetic navigation sensor system: MagInBox and MagInTube
-- Developed Python courses customized to AFIT’s needs
+-   Built AFIT ANT Center's first MagInABox (mag nav system) and tested it on a C17
+-   Magnetic Navigation: Designed, built and tested a magnetic
+    navigation sensor system. Involved designing PCB boards, programming
+    micro processors (C) and created a visualization system (Python) to
+    detect magnetic fields. Her sensor system is currently being flown.
+-   Python Course: Developed and taught two different python courses 
+    customized to AFIT's needs. Students learned a range of skills
+    including how to code an algorithm from a paper.
+-   Provided SME for a wide range of fields: Python, EO and Thermal
+    Sensing, Git and AWS for AFRL Sensor Directorate
+-   UAS Detection from a LiDAR sensor using IP cameras. Wrote the video
+    processing capture that streamed from IP cameras. Processed the
+    images to detect the UAS in python.
+-   Processed LWIR HSI data to feed into DARPA's InSight system
+-   Simulated LiDAR image using ROS (Robot OS) that where then used to
+    train a LiDAR ML algorithm and run the LiDAR ML algorithm in a
+    simulated environment.
+-   Developed a client side web application to render 3D models for
+    AFRL's Target Model Library
+-   Developed and published android applications for DiDacTex's internal
+    efforts
+-   Maintainer and Feature Developer to AFRL Visual Annotator (AVA)
+    truthing tool
+-   Works closely with AFRL customer to develop and standardize a new
+    research development
+-   Technical lead for a new research areas withing AFRL which
+    successfully, integrated automatic target recognition software from
+    a variety of languages and modalities
+-   Wrote and presented presentations at classified conferences: MSS and ATRWG
 
 ### InfoSciTex (a DCS Corporation) - Sept. 2012- April 2015
 
