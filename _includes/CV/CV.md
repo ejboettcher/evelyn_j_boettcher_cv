@@ -40,7 +40,7 @@
 
 ## PROFESSIONAL EXPERIENCE
 
-### BlueHalo - 2022 – Present
+### BlueHalo - 2022 – Feb 2024
 
 **Senior Principal Scientist**
 

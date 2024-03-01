@@ -28,7 +28,7 @@ skill and sharing her knowledge. Currently leads a Machine Learning
 Community group and supports a IC mission to integrate ML/AI to automate workflows.    
 <br>
 
-Over 20 years of experience supporting USAF, US Army, DoD/IC,
+Over 20 years of experience supporting DoD,
 Universities, and Industries. 14 years of experience with Passive Sensor Imagery and 15 years of
 experience with algorithm development, implementation and integration.   
 She currently leads a <a href="https://www.meetup.com/gem-city-tech/events/286718391/">Machine Learning 
