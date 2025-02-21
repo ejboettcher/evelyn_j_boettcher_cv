@@ -32,6 +32,8 @@ feature_row:
 
 ## Public Talks and Tutorials
 
+- [Gem City Tech: a hub, classroom and support group for Dayton's Tech Workers](https://www.wyso.org/news/2024-07-16/gem-city-tech-hub-classroom-and-support-group-for-tech-workers-new-and-old):  July 16 2024, ![Evelyn](assets/img/wysoEvelyn.webp)
+
 - [The University of Texas National Semiconductor Initatives and Opps](https://www.eventbrite.com/e/the-univ-of-texas-at-dallas-national-semiconductor-initiatives-and-opps-tickets-672211291067)  July 27, 2023
 
 - [Gem City Tech and Wright Brother Institute (WBI) ML Collider](https://www.eventbrite.com/e/future-of-the-daf-machine-learning-and-artificial-intelligence-collider-tickets-627177774607): May 17th 2023 ![WBI](assets/img/tutorial/wbi_2023.jpg){: .align-right}
