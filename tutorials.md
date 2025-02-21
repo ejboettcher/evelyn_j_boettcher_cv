@@ -32,11 +32,11 @@ feature_row:
 
 ## Public Talks and Tutorials
 
-- [Gem City Tech: a hub, classroom and support group for Dayton's Tech Workers](https://www.wyso.org/news/2024-07-16/gem-city-tech-hub-classroom-and-support-group-for-tech-workers-new-and-old):  July 16 2024, ![Evelyn](assets/img/wysoEvelyn.webp)
+- [Gem City Tech: a hub, classroom and support group for Dayton's Tech Workers](https://www.wyso.org/news/2024-07-16/gem-city-tech-hub-classroom-and-support-group-for-tech-workers-new-and-old):  July 16 2024, ![Evelyn Wyso](assets/img/wysoEvelyn.webp){:width="50%"}
 
 - [The University of Texas National Semiconductor Initatives and Opps](https://www.eventbrite.com/e/the-univ-of-texas-at-dallas-national-semiconductor-initiatives-and-opps-tickets-672211291067)  July 27, 2023
 
-- [Gem City Tech and Wright Brother Institute (WBI) ML Collider](https://www.eventbrite.com/e/future-of-the-daf-machine-learning-and-artificial-intelligence-collider-tickets-627177774607): May 17th 2023 ![WBI](assets/img/tutorial/wbi_2023.jpg){: .align-right}
+- [Gem City Tech and Wright Brother Institute (WBI) ML Collider](https://www.eventbrite.com/e/future-of-the-daf-machine-learning-and-artificial-intelligence-collider-tickets-627177774607): May 17th 2023 ![WBI](assets/img/tutorial/wbi_2023.jpg){: .align-right width="75%"}
 
 - [STEM Magnetic Mapping](https://didactexgit.github.io/do_stem_mag_map/talk.html#/title-slide): May 5th 2023
 
