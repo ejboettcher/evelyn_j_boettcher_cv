@@ -40,6 +40,14 @@
 
 ## PROFESSIONAL EXPERIENCE
 
+### AFRL/STO   March 2024 - Present
+**Sr. Physicist / Program Engineer**
+
+- Program Engineer in Air Force Research Laboratory (AFRL) / System Technology Office (STO).  Leading an effort within a thrust.
+  Manages contracts and leading both internal and external research efforts.
+- Founding member in STO's LLM Working group and Leads a Machine Learning group both has members that span multiple divisions in STO.
+- Leading an overhaul of a software capability. Coordinating with multiple stakeholders and drafting changes to be implemented.
+
 ### BlueHalo - 2022 – Feb 2024
 
 **Senior Principal Scientist**

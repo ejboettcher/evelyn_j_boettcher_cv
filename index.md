@@ -21,21 +21,15 @@ sitemap:
 
 <div class="content-new-info">
 <div class="square">
-    <big>Wide range of skills that enabling quick mastery of any project ranging
-from data processing and analysis (messy data) to sensor system
-development. Strong passion for developing prototypes, learning new
-skill and sharing her knowledge. Currently leads a Machine Learning
-Community group and supports a IC mission to integrate ML/AI to automate workflows.    
-<br>
+    <big>WSeasoned scientific professional with over two decades of experience spanning military, academic, and industrial sectors. 
+Key qualifications include:
 
-Over 20 years of experience supporting DoD,
-Universities, and Industries. 14 years of experience with Passive Sensor Imagery and 15 years of
-experience with algorithm development, implementation and integration.   
-She currently leads a <a href="https://www.meetup.com/gem-city-tech/events/286718391/">Machine Learning 
-Community group </a> and is a  <a href="https://developers.google.com/womentechmakers/ambassadors">
-Women Techmakers Ambassador</a>.  She has also received patents for electro-optical devices
-(# 6,738,536 #; 6,944,372).  Lastly, she enjoys supporting STEM activities for youth and is building a 
-MagNav STEM IoT activity.
+* 20+ years supporting USAF, US Army, DoD/IC, universities, and industries
+* 14 years specializing in Passive Sensor Imagery
+* 15 years of algorithm development, implementation, and integration expertise
+* Versatile skill set encompassing software and hardware development, as well as teaching
+* Exceptional ability to communicate complex scientific concepts to diverse audiences, from school children to fellow scientists 
+
      </big>
      
 </div>
