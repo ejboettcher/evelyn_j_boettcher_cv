@@ -21,15 +21,18 @@ sitemap:
 
 <div class="content-new-info">
 <div class="square">
-    <big>WSeasoned scientific professional with over two decades of experience spanning military, academic, and industrial sectors. 
+    <big>Seasoned scientific professional with over two decades of experience spanning military, academic, and industrial sectors. 
+<br/>
 Key qualifications include:
 
-* 20+ years supporting USAF, US Army, DoD/IC, universities, and industries
-* 14 years specializing in Passive Sensor Imagery
-* 15 years of algorithm development, implementation, and integration expertise
-* Versatile skill set encompassing software and hardware development, as well as teaching
-* Exceptional ability to communicate complex scientific concepts to diverse audiences, from school children to fellow scientists 
-
+<ul>
+<li> 20+ years supporting USAF, US Army, DoD/IC, universities, and industries</li>
+<li> 14 years specializing in Passive Sensor Imagery</li>
+<li> 15 years of algorithm development, implementation, and integration expertise</li>
+<li> Versatile skill set encompassing software and hardware development, as well as teaching</li>
+<li> Exceptional ability to communicate complex scientific concepts to diverse audiences, from school children to fellow scientists </li>
+</ul
+>
      </big>
      
 </div>
